@@ -1,0 +1,217 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: 'Ubuntu', sans-serif;;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$red-color:		#7E2E2D;
+$blue-color:		#204272;
+
+$text-color:		#000;
+$background-color:	#fff;
+$brand-color:		$red_color;
+$grey-color:		#999;
+$grey-color-light:	#ddd;
+$grey-color-dark:	#555;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// @import
+//         "base",
+//         "layout",
+//         "syntax-highlighting"
+// ;
+
+
+
+html{
+	background-color: $grey-color;
+}
+
+body {
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: #fff;
+	color: $text-color;
+	font-family: $base-font-family;
+
+}
+
+.container-fluid {
+	width: 100%;
+	padding: 0;
+}
+
+.row {
+	margin: 0;
+}
+
+.jumbotron, .jumbotron-fluid {
+	background: url(/assets/images/banner.png) center center no-repeat;
+	background-size: 100% 100%;
+	height: 280px;
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	margin: 0 0 0 0;
+	padding: 0;
+	color: $red-color;
+}
+
+// li{
+//     height: 65px;
+//             vertical-align: middle;
+// }
+
+.nav, .nav-pills {
+	padding: 0px;
+	margin: 0px;
+	background-color: $blue-color;
+
+	a.nav-link {
+		color: #fff;
+		font-weight: 500;
+		font-size: 16px;
+	}
+
+	.dropdown{
+
+		a[aria-expanded="true"].dropdown-toggle {
+			background-color: $blue-color;
+		}
+
+		.dropdown-menu {
+			margin: 0;
+			padding: 0;
+
+			a.dropdown-item {
+				color: $blue-color;
+				padding: 3px 3px;
+			}
+		}
+	}
+}
+
+// .nav ul {
+// 	list-style-type: none;
+// 	float: right;
+// 	padding: 0px;
+// 	margin: 0px;
+// }
+//
+// .nav li {
+// 	height: 35px;
+// 	display: inline-block;
+// 	margin: 10px 0 0 20px;
+// 	padding: 0px;
+// 	text-align: center;
+// 	line-height: 100%;
+// }
+//
+// .nav > li > a {
+// 	font-family: "Open Sans", sans-serif;
+// 	font-size: 14px;
+// 	font-weight: 800;
+// 	color: $red-color;
+// 	padding: 5px 10px;
+// 	text-decoration: none;
+// }
+//
+// .nav>li>a:hover {
+// 	text-decoration: none;
+// 	color: $blue-color;
+// 	border-bottom: solid $blue-color 2px;
+// 	border-radius: 0px;
+// 	background-color: transparent;
+// }
+//
+// .nav-pills li.active a {
+// 	background-color: $blue-color;
+// 	border-radius: 0;
+// 	border-bottom: solid $blue-color 2px;
+// 	border-radius: 0px;
+// }
+// .nav-pills li.active a:hover {
+// 	background-color: $blue-color;
+// }
+
+
+.footer {
+	background-color: $blue-color;
+	color: #fff;
+	font-weight: 50;
+	margin-top: 30px;
+	padding: 20px 0 20px 0;
+
+	.container-fluid {
+		margin: 0 auto;
+		padding: 0 40px;
+	}
+	.row {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.col-md-6 {
+		padding: 0;
+		margin: 0;
+	}
+	p {
+		padding: 0;
+		margin: 0;
+		line-height: 100%;
+	}
+	a, a:hover {
+		color: white;
+		text-decoration: none;
+	}
+
+	.icon > svg > path {
+		fill: #fff;
+	}
+
+	.address {
+		p {
+			font-size: 14px;
+			line-height: 120%;
+		}
+	}
+
+	.copy {
+		text-align: right;
+		p {
+			line-height: 120%;
+		}
+	}
+
+}
