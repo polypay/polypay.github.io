@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Photo Gallery
+category: photo_gallery
 permalink: /photo_gallery/
 ---
 

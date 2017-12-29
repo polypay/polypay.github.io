@@ -43,9 +43,9 @@ sass:
 #   - vendor/ruby/
 
 collections:
-  breeders:
-    output: true
   photo_gallery:
+    output: true
+  breeders:
     output: true
   ads:
     output: true
