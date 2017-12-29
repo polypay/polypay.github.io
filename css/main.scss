@@ -101,7 +101,7 @@ body {
 	a.nav-link {
 		color: #fff;
 		font-weight: 500;
-		font-size: 16px;
+		font-size: 20px;
 	}
 
 	.dropdown{
@@ -117,53 +117,11 @@ body {
 			a.dropdown-item {
 				color: $blue-color;
 				padding: 3px 3px;
+				font-size: 16px;
 			}
 		}
 	}
 }
-
-// .nav ul {
-// 	list-style-type: none;
-// 	float: right;
-// 	padding: 0px;
-// 	margin: 0px;
-// }
-//
-// .nav li {
-// 	height: 35px;
-// 	display: inline-block;
-// 	margin: 10px 0 0 20px;
-// 	padding: 0px;
-// 	text-align: center;
-// 	line-height: 100%;
-// }
-//
-// .nav > li > a {
-// 	font-family: "Open Sans", sans-serif;
-// 	font-size: 14px;
-// 	font-weight: 800;
-// 	color: $red-color;
-// 	padding: 5px 10px;
-// 	text-decoration: none;
-// }
-//
-// .nav>li>a:hover {
-// 	text-decoration: none;
-// 	color: $blue-color;
-// 	border-bottom: solid $blue-color 2px;
-// 	border-radius: 0px;
-// 	background-color: transparent;
-// }
-//
-// .nav-pills li.active a {
-// 	background-color: $blue-color;
-// 	border-radius: 0;
-// 	border-bottom: solid $blue-color 2px;
-// 	border-radius: 0px;
-// }
-// .nav-pills li.active a:hover {
-// 	background-color: $blue-color;
-// }
 
 
 .footer {
@@ -207,11 +165,19 @@ body {
 		}
 	}
 
-	.copy {
-		text-align: right;
-		p {
+	.foot-links {
+		.nav-item {
+			a {
+			font-size: 20px;
 			line-height: 120%;
+			padding: 0;
+			}
 		}
 	}
 
+	.webmaster {
+		p {
+			text-align: right;
+		}
+	}
 }

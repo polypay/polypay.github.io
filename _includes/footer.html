@@ -3,26 +3,64 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-6 address">
-				<p>The American Polypay Sheep Association</p>
+				<p>American Polypay Sheep Association, &copy {{ site.time | date: '%Y' }}</p>
 				<p>Brett Pharo, President</p>
 				<p>12266 Cherry Ave.</p>
 				<p>Rapid City, MI 49676</p>
 				<p>brettpharo@gmail.com</p>
 				<p>231-322-2017</p>
 			</div>
-			<div class="col-md-6">
-				<div class="copy pull-right">
-					<p>APSA &copy {{ site.time | date: '%Y' }}</p>
-					<p>
-						<a href="mailto:{{ site.email }}">
-							<i class="fa fa-envelope-o fa-lg" style="color:white"></i>
-						</a>
-						<a href="https://github.com/{{ site.github_username }}">
-							<i class="fa fa-github fa-lg" style="color:white"></i>
-						</a>
-					</p>
-				</div>
+
+			<div class="col-md-2 foot-links">
+				<ul class="nav nav-pills flex-column">
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/polypays/">Polypays</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/breeders/">Breeders</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/photo_gallery">Photos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/ads">Ads</a>
+					</li>
+				</ul>
 			</div>
-	    </div>
+
+			<div class="col-md-3 foot-links">
+				<ul class="nav nav-pills flex-column">
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/join_us">Join Us</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/news">News</a>
+					</li>
+
+					<li class="nav-item dropdown">
+	    			<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NSIP</a>
+	    			<div class="dropdown-menu">
+				      <a class="dropdown-item" target="_blank" href="http://nsip.org/polypay-breeders/">Breed page</a>
+				      <a class="dropdown-item" target="_blank" href="http://nsipsearch.nsip.org/#!/search">Database</a>
+						</div>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{site.baseurl}}/links">Links</a>
+					</li>
+				</ul>
+			</div>
+
+
+			<div class="col-md-1 webmaster">
+				<p>
+					<a href="mailto:{{ site.email }}">
+						<i class="fa fa-envelope-o fa-lg" style="color:white"></i>
+					</a>
+					<a href="https://github.com/{{ site.github_username }}">
+						<i class="fa fa-github fa-lg" style="color:white"></i>
+					</a>
+				</p>
+			</div>
+    </div>
  	</div>
 </div>

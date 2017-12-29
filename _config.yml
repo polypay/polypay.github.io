@@ -41,3 +41,11 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  breeders:
+    output: true
+  photo_gallery:
+    output: true
+  ads:
+    output: true
