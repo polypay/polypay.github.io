@@ -4,15 +4,20 @@ title: News
 permalink: /news/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="news-feed news-main">
+	<h2>News</h2>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+					{% for post in site.posts %}
+						<div class="news-blurbs">
+							<h3>{{ post.title }}</h3>
+							<p class="date">{{ post.date | date: "%B %d, %Y"  }}</p>
+							<div class="blurb">
+								{% if post.blurb %}
+									{{ post.blurb }} <a href="{{post.url}}"><i>Read more...</i></a>
+								{% else %}
+									{{ post.content }}
+								{% endif %}
+							</div>
+						</div>
+					{% endfor %}
+</div>

@@ -58,15 +58,28 @@ layout: default
 				<div class="news-feed">
 					<h2>Latest News</h2>
 
-					<p>Here is some new news</p>
+
+					{% for post in site.posts limit:5 %}
+						<div class="news-blurbs">
+							<h3>{{ post.title }}</h3>
+							<p class="date">{{ post.date | date: "%B %d, %Y"  }}</p>
+							<div class="blurb">
+								{% if post.blurb %}
+									<p>{{ post.blurb }}<a href="{{post.url}}"><i>Read more...</i></a></p>
+								{% else %}
+									{{ post.content }}
+								{% endif %}
+							</div>
+						</div>
+					{% endfor %}
+
+					<p><a href="news">See all the news</a></p>
 				</div>
 			</div>
 
 			<div class="col-md-4" style="margin:0; padding:0;">
-				<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAmericanPolypaySheepAssociation%2F&tabs=timeline&width=380&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="380" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+				<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAmericanPolypaySheepAssociation%2F&tabs=timeline&width=380&height=700&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="380" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			</div>
-
-
 
 		</div>
 	</div>
