@@ -13,7 +13,7 @@ permalink: /news/
 							<p class="date">{{ post.date | date: "%B %d, %Y"  }}</p>
 							<div class="blurb">
 								{% if post.blurb %}
-									{{ post.blurb }} <a href="{{post.url}}"><i>Read more...</i></a>
+									{{ post.blurb }} <a href="{{post.url}}"><i>  Read more...</i></a>
 								{% else %}
 									{{ post.content }}
 								{% endif %}

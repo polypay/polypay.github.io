@@ -1,5 +1,5 @@
 ---
-title: Spring 2016 Newsletter
+title: Winter 2016 Newsletter
 layout: news_item
 ---
 

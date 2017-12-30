@@ -65,7 +65,7 @@ layout: default
 							<p class="date">{{ post.date | date: "%B %d, %Y"  }}</p>
 							<div class="blurb">
 								{% if post.blurb %}
-									<p>{{ post.blurb }}<a href="{{post.url}}"><i>Read more...</i></a></p>
+									<p>{{ post.blurb }}<a href="{{post.url}}"><i>  Read more...</i></a></p>
 								{% else %}
 									{{ post.content }}
 								{% endif %}
