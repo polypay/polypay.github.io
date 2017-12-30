@@ -194,21 +194,25 @@ body {
 		margin-bottom: 20px;
 	}
 	.description {
-		padding: 20px;
+		padding: 15px;
 		background-color: $red-color;
 		border-radius: 15px;
+		margin-bottom: 15px;
 	}
 
 	.purpose {
-		padding: 20px;
-		background-color: $blue-color;
+		padding: 15px;
+		background-color: #fff;
+		border-radius: 15px;
+		color: $blue-color;
+		margin-bottom: 20px;
 	}
 
 	#photo-carousel {
 		img {
-			max-height:425px;
+			max-height:450px;
 			max-width: 100%;
-			margin: 20px;
+			margin: 0 20px;
 			padding: 20px;
 	    display: block;
 
@@ -300,4 +304,39 @@ body {
 
 .news-main {
 		margin: 50px;
+}
+
+
+.polypays {
+	color: $blue-color;
+	margin: 50px;
+
+	padding: 0;
+
+	h2 {
+		color: $red-color;
+		font-weight: 1000;
+		padding-bottom: 10px;
+		margin-top: 50px;
+	}
+
+	h3 {
+		color: $blue-color;
+		font-size: 24px;
+		font-weight: 800;
+		padding: 0;
+		margin: 30px 0 5px;
+	}
+
+	h4 {
+		color: $blue-color;
+		font-size: 20px;
+		font-weight: 800;
+		padding: 0;
+		margin: 20px 0 5px;
+	}
+
+	a {
+		color: $red-color;
+	}
 }
