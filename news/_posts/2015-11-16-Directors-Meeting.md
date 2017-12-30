@@ -1,7 +1,7 @@
 ---
-title: November Director's Meeting Minutes
+title: November Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their November meeting on November 16th where they discussed several business items including the treasurer's report, planning the 2016 National Sale, and ram share agreements.
+blurb: The APSA Directors' had their November meeting on the 16th where they discussed several business items including the treasurer's report, planning the 2016 National Sale, and ram share agreements.
 ---
 
 Call number: 866-588-5787 Conference code: 2881249165

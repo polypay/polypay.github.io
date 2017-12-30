@@ -1,7 +1,7 @@
 ---
-title: April Director's Meeting Minutes
+title: April Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their April meeting on the 14th where they discussed advertising for the 2016 National Sale and the Let's Grow Grant Proposal.
+blurb: The APSA Directors' had their April meeting on the 14th where they discussed advertising for the 2016 National Sale and the Let's Grow Grant Proposal.
 ---
 
 Call number: 866-588-5787 Conference code: 2881249165

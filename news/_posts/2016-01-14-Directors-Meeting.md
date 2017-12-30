@@ -1,7 +1,7 @@
 ---
-title: January Director's Meeting Minutes
+title: January Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their January meeting on the 14th where they discussed several business items including the treasurer's report and finalizing plans for the 2016 National Sale.
+blurb: The APSA Directors' had their January meeting on the 14th where they discussed several business items including the treasurer's report and finalizing plans for the 2016 National Sale.
 ---
 
 

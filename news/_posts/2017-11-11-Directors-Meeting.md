@@ -1,7 +1,7 @@
 ---
-title: November Director's Meeting Minutes
+title: November Directors' Meeting Minutes
 layout: news_item
-blurb: The October/November APSA Director's meeting was via email and ended November 11. They agreed to drop the 2018 National Sale and to have the Annual Membership Meeting at the Center of the Nation Sale.
+blurb: The November APSA Directors' meeting was via email and ended on the 11. They agreed to drop the 2018 National Sale and to have the Annual Membership Meeting at the Center of the Nation Sale.
 ---
 
 The board of the American Polypay Sheep Association held an email meeting that ended on November 11, 2017.

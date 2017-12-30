@@ -1,7 +1,7 @@
 ---
-title: April Director's Meeting Minutes
+title: April Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their April meeting on April 4th where they discussed several business items including the treasurer's report, website, and dropping the 2018 National Sale.
+blurb: The APSA Directors' had their April meeting on the 4th where they discussed several business items including the treasurer's report, website, and dropping the 2018 National Sale.
 ---
 
 

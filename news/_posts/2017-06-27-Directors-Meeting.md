@@ -1,7 +1,7 @@
 ---
-title: June Director's Meeting Minutes
+title: June Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their post-sale June meeting on June 27th where they discussed the 2017 National Sale and began brainstorming what to do for the 2018 sale.
+blurb: The APSA Directors' had their post-sale June meeting on the 27th where they discussed the 2017 National Sale and began brainstorming what to do for the 2018 sale.
 ---
 
 **Present:** Brett Pharo, Mark Meurer, John Anderson, Chris Kaeb, Bryce Freking, Kathy Ewert, Mark Van Roekel

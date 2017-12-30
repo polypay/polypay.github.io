@@ -1,7 +1,7 @@
 ---
-title: May Director's Meeting Minutes
+title: May Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Director's had their May meeting on the 25th where they discussed several business items including the treasurer's report, an update on the Let's Grow Grant, and using NSIP IDs on registration certificates.
+blurb: The APSA Directors' had their May meeting on the 25th where they discussed several business items including the treasurer's report, an update on the Let's Grow Grant, and using NSIP IDs on registration certificates.
 ---
 
 Call number: 866-588-5787 Conference code: 2881249165
@@ -26,7 +26,7 @@ Call number: 866-588-5787 Conference code: 2881249165
 |--------------------|-----------------|  
 
 |--------------------------|-----------------|
-| APSA Earnings Statement  | December 2015   |
+| APSA Earnings Statement  | April 2015      |
 |--------------------------|----------------:|
 | Total Income             | $860.50         |
 | Total Expense            | $1,337.05       |

@@ -1,7 +1,7 @@
 ---
-title: Director's Meetings and Annual Membership Meeting Minutes
+title: Directors' Meetings and Annual Membership Meeting Minutes
 layout: news_item
-blurb: The June APSA Director's and Annual Membership meetings were held in Berrien Springs, MI. There was a good discussion about recent increases in registration fees, bylaw changes, and the composition of the board of directors.
+blurb: The June APSA Directors' and Annual Membership meetings were held in Berrien Springs, MI. There was a good discussion about recent increases in registration fees, bylaw changes, and the composition of the board of directors.
 ---
 
 #### Last board meeting before the Annual Membership Meeting
