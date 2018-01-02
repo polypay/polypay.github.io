@@ -7,6 +7,7 @@ permalink: /polypays/
 <div class="polypays">
 
 	<h2>{{ page.title }}</h2>
+	<p>As stated in the <a href="/assets/pdfs/APSA_bylaws_2017.pdf" target="_blank">APSA bylaws</a>, the goal of the association is "to increase production through selective breeding and to develop through accepted practices a breed that will maintain high production through increased fertility, high carcass quality, a quality fleece, functional conformation, hardiness and a good disposition." The history of the breed and the characteristics we seek to preserve in our standard emphasize this goal.</p>
 
 	<h3>History</h3>
 	<p>The Polypay breed was born out of frustration and a dream. Long-time Idaho sheep man Reed Hulet was frustrated with the production of his family's 600 Idaho range ewes. They needed more productive sheep to make a profit. His dream - to  develop a more prolific, better milking and mothering breed of range and farm combination sheep by cross breeding the best sheep available, and selecting for prolificacy and other economic traits. Reed Hulet did not have the resources to develop a new breed of sheep, so he shared his dream with his brother, Dr. Clarence Hulet's experimental breeding plan to reduce breeding seasonality and enhance prolificacy was approved. The dream to produce two lamb crops and one wool crop per year to give sheep producers more profits was on its way to reality!</p>
