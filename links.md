@@ -8,7 +8,7 @@ permalink: /links/
 
 	<h2>Links</h2>
 
-	<p>Here are links to our fellow breeders and those who provide goods, services, and information that Polypay breeders find helpful in raising our animals. Feel free to <a href="mailto:{{ site.email }}">send in a link</a> that you find useful and think others would too.</p>
+	<p>Here are links to our fellow breeders and those who provide goods, services, and information that Polypay breeders find helpful in raising our animals. Feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuC3Gyxn0fsAj1icLhFsQ1hkmV0qPn39RYiIsbhioGmy_Vpg/viewform?usp=sf_link" target="_blank">submit a link</a> that you find useful and think others would too.</p>
 
 
 	<div class="row">
