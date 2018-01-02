@@ -16,8 +16,14 @@
 					<li class="nav-item">
 						<a class="nav-link" href="{{site.baseurl}}/polypays/">Polypays</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{site.baseurl}}/breeders/">Breeders</a>
+					<li class="nav-item dropdown">
+	    			<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Breeders</a>
+	    			<div class="dropdown-menu">
+							<a class="dropdown-item" target="_blank" href="{{site.baseurl}}/breeders/">Breeders directory</a>
+				      <a class="dropdown-item" target="_blank" href="/assets/pdfs/polypay_work_order_form.pdf">Work order form</a>
+				      <a class="dropdown-item" target="_blank" href="/assets/pdfs/polypay_registration_form.pdf">Registration form</a>
+				      <a class="dropdown-item" target="_blank" href="/assets/pdfs/polypay_ram_use_certificate.pdf">Ram use certificate</a>
+						</div>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="{{site.baseurl}}/photo_gallery">Photos</a>
@@ -51,13 +57,13 @@
 			</div>
 
 
-			<div class="col-md-2 webmaster align-self-end">
-				<p class="pull-right">webmaster: 
+			<div class="col-md-2 webmaster align-self-end" style="margin:0;padding:0">
+				<p class="pull-right">webmaster:
 					<a href="mailto:{{ site.email }}">
-						<i class="fa fa-envelope-o fa-lg" style="color:white"></i>
+						<i class="fas fa-envelope fa-lg" style="color:white"></i>
 					</a>
 					<a href="https://github.com/{{ site.github_username }}">
-						<i class="fa fa-github fa-lg" style="color:white"></i>
+						<i class="fab fa-github fa-lg" style="color:white"></i>
 					</a>
 				</p>
 			</div>

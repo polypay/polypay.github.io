@@ -1,0 +1,38 @@
+<div class="member">
+	{% if include.member.farm_name %}
+		<h4>{{ include.member.farm_name }}
+	{% elsif include.member.owner %}
+		<h4>{{ include.member.owner }}
+	{% else %}
+		{% break %}
+	{% endif %}
+
+	{% if include.member.website %}
+		<a href="http://{{include.member.website}}" target="_blank"><i class="fas fa-link fa-sm"></i></a>
+	{% endif %}
+
+	{% if include.member.email %}
+		<a href="mailto:{{ include.member.email }}"><i class="fas fa-envelope fa-sm"></i></a>
+	{% endif %}
+
+	</h4>
+
+	{% if include.member.farm_name %}
+		<p>{{ include.member.owner }}</p>
+	{% endif %}
+
+	{% if include.role | false %}
+		<p><i>{{ include.member.title }}</i></p>
+	{% endif %}
+
+
+	<p>{{ include.member.street }}</p>
+	<p>{{ include.member.city }}, {{ include.member.state}}	{{ include.member.zip }}</p>
+
+	{% if include.member.phone1 %}
+		<p>{{include.member.phone1}}</p>
+	{% endif %}
+	{% if include.member.phone2 %}
+		<p>{{include.member.phone2}}</p>
+	{% endif %}
+</div>
