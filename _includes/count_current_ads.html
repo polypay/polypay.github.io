@@ -1,0 +1,12 @@
+{% assign count_current = 0 %}
+{% for ad in include.ads %}
+	{% assign ad_date = ad.date | date: '%s' %}
+	{% if ad_date > stale_ad_date %}
+		{% assign count_current = count_current | plus: 1 %}
+	{% endif %}
+{% endfor %}
+{% if count_current > 0 %}
+	{{- true -}}
+{% else %}
+	{{- false -}}
+{% endif %}

@@ -504,16 +504,6 @@ body {
 		margin-top: 10px;
 	}
 
-	.member {
-
-		h4 {
-			color: $blue-color;
-			font-size: 20px;
-			font-weight: 800;
-			padding: 0;
-			margin: 20px 0 5px;
-		}
-	}
 
 	p {
 		font-size: 20px;
@@ -539,4 +529,102 @@ body {
 			font-size: 14px;
 		}
 	}
+}
+
+.member {
+
+	h4 {
+		color: $blue-color;
+		font-size: 20px;
+		font-weight: 800;
+		padding: 0;
+		margin: 20px 0 5px;
+	}
+	p {
+		font-size: 20px;
+		line-height: 120%;
+		padding: 0;
+		margin: 0;
+	}
+	a {
+		color: $red-color;
+		padding: 0;
+	}
+
+}
+
+.classifieds {
+
+	color: $blue-color;
+	margin: 50px;
+
+	padding: 0;
+
+	.disclaimer {
+		margin-bottom: 20px;
+	}
+
+	h2 {
+		color: $red-color;
+		font-weight: 1000;
+		padding-bottom: 10px;
+		margin-top: 50px;
+	}
+
+	h3 {
+		color: $blue-color;
+		font-size: 24px;
+		font-weight: 800;
+		padding: 0;
+		margin: 30px 0 5px;
+	}
+
+	p {
+		font-size: 20px;
+		line-height: 120%;
+		padding: 0;
+		margin: 0;
+	}
+	a {
+		color: $red-color;
+		padding: 0;
+	}
+
+	.for-sale {
+		padding-bottom: 20px;
+	}
+
+	.ad {
+		margin-bottom: 10px;
+	}
+	.ad-copy {
+		margin-top: 20px;
+		padding-top: 0;
+		color: $red-color;
+		font-size: 20px;
+
+		a {
+			color: $blue-color;
+		}
+		h4 {
+			font-size: 20px;
+			font-weight: 800;
+			margin: 10px 0 0;
+		}
+
+		ul {
+			padding-left: 10px;
+		}
+		li {
+			line-height: 100%;
+			list-style: none;
+			list-style-position: outside;
+
+			a {
+			color: $red-color;
+			text-decoration: underline;
+			}
+		}
+	}
+
 }

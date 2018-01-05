@@ -16,8 +16,7 @@ permalink: /join_us/
 		<li><strong>Honorary members:</strong> those individuals or businesses who have made outstanding contributions to the Polypay breed may be elected to honorary membership. Honorary members shall be entitled to the services granted by the Board of Directors however that shall not include the right to vote.</li>
 	</ol>
 
-	<p>Active members have the right to vote (one vote per membership), serve on the board
-of directors, and hold office. Active members also have the privilege of reduced fees for registrations and transfers. There is also a newsletter that is sent to members several times a year.</p>
+	<p>Active members have the ability to post free <a href="/classifieds">classified ads</a> on the APSA website, the right to vote (one vote per membership), serve on the board of directors, and hold office. Active members also have the privilege of reduced fees for registrations and transfers. There is also a newsletter that is sent to members several times a year.</p>
 
 	<p>To join the APSA, please complete the <a href="/assets/pdfs/polypay_work_order_form.pdf" target="_blank">work order</a> and <a href="/assets/pdfs/polypay_registration_form.pdf" target="_blank">animal registration</a> forms.</p>
 </div>

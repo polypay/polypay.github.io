@@ -47,5 +47,5 @@ collections:
     output: true
   breeders:
     output: true
-  ads:
+  classifieds:
     output: true
