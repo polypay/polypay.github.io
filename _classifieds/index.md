@@ -5,11 +5,12 @@ permalink: /classifieds/
 max_months: 3
 ---
 
+<div class="classifieds">
+	<h2>Classifieds</h2>
+
 {% assign month_secs = page.max_months | times: 31 | times: 60 | times: 60 | times: 24 %}
 {% assign stale_ad_date = site.time | date: '%s' | minus: month_secs | date: '%s' %}
 
-<div class="classifieds">
-	<h2>Classifieds</h2>
 
 	<p>Classifieds ads for active members of the APSA advertising animals for sale or that they are in search of are free and will be placed for 30 days, after which they will be removed and can be resubmitted. To submit an ad, please complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIHiFJ4aIFTvj7loe9iwGuvALP3WLMOd27l9601dxztt6sVw/viewform?usp=sf_link" target="_blank">classifieds submission form</a>.</p>
 
