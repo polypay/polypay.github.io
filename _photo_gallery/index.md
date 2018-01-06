@@ -3,6 +3,7 @@ layout: default
 title: Photo Gallery
 category: photo_gallery
 permalink: /photo_gallery/
+description: Pictures of Polypay shepherds and their sheep grazing, being fed, and in the show ring
 width: 3
 columns: 4
 ---

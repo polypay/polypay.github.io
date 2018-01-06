@@ -2,6 +2,7 @@
 layout: default
 title: Classifieds
 permalink: /classifieds/
+description: Classified listings of Polypay sheep that are available for sale and for producers looking to buy Polypay sheep
 max_months: 3
 ---
 

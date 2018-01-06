@@ -2,6 +2,7 @@
 layout: default
 title: Breeders
 permalink: /breeders/
+description: Directory of Polypay sheep breeders and growers near you with information on how to get ahold of them by mail, phone, email, and their websites
 ---
 
 <div class="breeder-directory container">

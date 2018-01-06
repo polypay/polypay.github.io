@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Polypays
+title: Polypay Sheep
 permalink: /polypays/
+description: The history, goals, and standards of the Polypay sheep breed
 ---
 
 <div class="polypays">

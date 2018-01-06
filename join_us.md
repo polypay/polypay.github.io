@@ -2,6 +2,7 @@
 layout: default
 title: Join Us!
 permalink: /join_us/
+description: Information on how to join and the benefits of joining the American Polypay Sheep Association
 ---
 
 <div class="join-us">

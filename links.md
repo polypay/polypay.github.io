@@ -2,6 +2,7 @@
 layout: default
 title: Links
 permalink: /links/
+description: Web links that Polypay sheep breeders find useful to find other breeders and supplies that they need to maintain their flocks.
 ---
 
 <div class="links">
