@@ -6,6 +6,7 @@ city: Lexington
 state: NC
 zip: 27295
 phone1: 336-880-1849
+active: false
 lat: 35.910208
 long: -80.191089
 ---

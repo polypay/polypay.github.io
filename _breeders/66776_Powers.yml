@@ -7,6 +7,7 @@ state: KS
 zip: 66776
 phone1: 620-839-5733
 email: b.rose-1@hotmail.com
+active: false
 lat: 37.5288128
 long: -95.4521066
 ---

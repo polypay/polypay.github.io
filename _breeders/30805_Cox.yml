@@ -5,6 +5,7 @@ street: 3106 Goodsby Rd.
 city: Blythe
 state: GA
 zip: 30805
+active: false
 lat: 33.289396
 long: -82.222935
 ---

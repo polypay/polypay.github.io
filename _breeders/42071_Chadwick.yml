@@ -7,6 +7,7 @@ state: KY
 zip: 42071
 phone1: 270-227-8731
 email: matthew.chadwick@uky.edu
+active: false
 lat: 36.6979123
 long: -88.3711747
 ---
