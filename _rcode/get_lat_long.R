@@ -49,3 +49,4 @@ run_address <- function(file){
 
 yml_files <- list.files('_breeders', full.names=T, pattern="*.yml")
 sapply(yml_files, run_address)
+print("Be sure to check to make sure there are no addresses with 'SR' in them")

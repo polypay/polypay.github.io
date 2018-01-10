@@ -26,9 +26,7 @@ description: Directory of Polypay sheep breeders and growers near you with infor
 					{% assign state_breeder = site.breeders | where: "state", state %}
 
 					{% for breeder in state_breeder %}
-						{% unless breeder.active == false %}
-							{% include membership_entry.html member=breeder %}
-						{% endunless %}
+						{% include membership_entry.html member=breeder %}
 					{% endfor %}
 
 					<p class="back-to-top"><a href="#">back to top</a></p>
