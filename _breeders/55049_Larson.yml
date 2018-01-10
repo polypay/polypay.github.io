@@ -6,6 +6,7 @@ state: MN
 zip: 55049
 phone1: 507-213-1466
 email: tlarson@medford.klz.mn.us
+active: false
 lat: 44.1691092
 long: -93.1539293
 ---
