@@ -1,5 +1,4 @@
 ---
-sitemap: false
 farm_name: N Kids Farm
 classified: for_sale
 nsip:

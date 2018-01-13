@@ -1,5 +1,4 @@
 ---
-sitemap: false
 farm_name: Sammons Polypay
 classified: for_sale
 ---
