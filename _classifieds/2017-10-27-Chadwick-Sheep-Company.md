@@ -1,5 +1,4 @@
 ---
-sitemap: false
 farm_name: Chadwick Sheep Company
 classified: for_sale
 ---
