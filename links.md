@@ -19,12 +19,8 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 			<ul>
 				<li><a href="http://www.auderersheep.com" target="_blank">Auderer Sheep Farms</a></li>
 			  <li><a href="http://www.bigprairiepolypays.com/" target="_blank">Big Prairie Polypays</a></li>
-				<li><a href="http://www.fidnet.com/~jams/content.html" target="_blank">Bit of Heaven</a></li>
-				<li><a href="http://www.clearcreekpolypays.com/" target="_blank">Clear Creek Polypays</a></li>
 				<li><a href="http://www.coyotecornerfarm.ca/whoweare.htm" target="_blank">Coyote Corner Farm</a></li>
-			  <li><a href="http://www.elmcreekpolypay.com/elmcreekpolypay" target="_blank">Elm Creek Polypays</a></li>
-			  <li><a href="http://grandviewpolypay.com/" target="_blank">Grandview Polypay</a></li>
-			  <li><a href="http://hausserpolypays.webs.com/" target="_blank">Hausser Polypays</a></li>
+				<li><a href="http://hausserpolypays.webs.com/" target="_blank">Hausser Polypays</a></li>
 			  <li><a href="http://www.hiddenvalleypolypays.com/" target="_blank">Hidden Valley Farm Polypays</a></li>
 			  <li><a href="http://www.nkidsfarm.com/" target="_blank">Nine Kids Farm</a></li>
 			  <li><a href="http://www.backacrefarmmi.com/" target="_blank">Pharo Polypay Back Acre Farm</a></li>
@@ -32,7 +28,6 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 			  Sheep Company</a></li>
 				<li><a href="http://www.shelridge.com/" target="_blank">Shelridge Wool Farm</a></li>
 				<li><a href="http://www.polypays4u.com" target="_blank">Uncompahgre Polypay Farm</a></li>
-				<li><a href="http://www.fmctc.com/gallery/wcfarm/" target="_blank">West Cyclone Farm</a></li>
 				<li>Be sure to checkout our <a href="/breeders">Breeders' Page</a> for a more complete listing and map of Polypay breeders</li>
 			</ul>
 		</div>
