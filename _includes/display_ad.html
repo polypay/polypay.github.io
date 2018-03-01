@@ -1,4 +1,4 @@
-{% for ad in include.ads %}
+{% for ad in include.ads reversed %}
 	{% assign ad_date = ad.date | date: '%s' %}
 	{% if ad_date > stale_ad_date %}
 	<div class="row no-gutters ad">
@@ -7,7 +7,7 @@
 			{% include membership_entry.html member=breeder.first %}
 		</div>
 		<div class="col-md-8 ad-copy">
-			<p>{{ ad.content | strip_html }} - <i>Posted {{ ad.date | date:"%B %e, %Y"}}</i></p>
+			<p>{{ ad.content }} </p>
 			{% if ad.nsip %}
 				<h4>NSIP IDs:</h4>
 				<ul>
@@ -16,6 +16,7 @@
 				{% endfor %}
 				</ul>
 			{% endif %}
+			<p class="text-right" style="padding-top:10px;"><i>Posted {{ ad.date | date:"%B %e, %Y"}}</i></p>
 		</div>
 	</div>
 	{% endif %}
