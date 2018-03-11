@@ -4,7 +4,36 @@
 	<div class="row no-gutters ad">
 		<div class="col-md-4">
 			{% assign breeder = site.breeders | where:"farm_name", ad.farm_name %}
-			{% include membership_entry.html member=breeder.first %}
+			{% assign found = breeder | size %}
+			{% if found == 1 %}
+				{% include membership_entry.html member=breeder.first %}
+			{% else %}
+
+				<div class="member">
+						<h4>{{ ad.farm_name }}
+						{% if ad.website %}
+							<a href="http://{{include.member.website}}" target="_blank"><i class="fas fa-link fa-sm"></i></a>
+						{% endif %}
+
+						{% if ad.email %}
+							<a href="mailto:{{ ad.email }}"><i class="fas fa-envelope fa-sm"></i></a>
+						{% endif %}
+
+					</h4>
+
+					{% if ad.city %}
+					<p>{{ ad.street }}</p>
+					<p>{{ ad.city }}, {{ ad.state}}	{{ ad.zip }}</p>
+					{% endif %}
+
+					{% if ad.phone %}
+						<p>{{ad.phone}}</p>
+					{% endif %}
+				</div>
+
+
+			{% endif %}
+
 		</div>
 		<div class="col-md-8 ad-copy">
 			<p>{{ ad.content }} </p>
