@@ -1,8 +1,7 @@
 ---
-farm_name: Steve Pennings
+farm_name: Abe Fisher
 classified: wanted
-email: stevepennings02@msn.com
-phone: 320-212-3110
+email: akbjf51@aol.com
 ---
 
-Looking for 200 - 300 HD of Polypay type commercial Ewes or ewe lambs.
+Looking for 100-300 ewe lambs, high health, for  September 1
