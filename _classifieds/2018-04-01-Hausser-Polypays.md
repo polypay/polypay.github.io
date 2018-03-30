@@ -9,7 +9,6 @@ Proven sires used for 2017 & 2018 Lambs $700.00 each
 
 
 Yearling Rams, choice $600.00 OR 2 for $1000.00  
-* [6200962017H17028](http://nsipsearch.nsip.org/#!/details/6200962017H17028), 3/3 116.1
 * [6200962017H17035](http://nsipsearch.nsip.org/#!/details/6200962017H17035), 3/3 115
 * [6200962017H17066](http://nsipsearch.nsip.org/#!/details/6200962017H17066), 2/2 113.2
 * [6200962017H17089](http://nsipsearch.nsip.org/#!/details/6200962017H17089), 3/3 119.7
