@@ -1,7 +1,7 @@
 ---
 title: December Directors' Meeting Minutes
 layout: news_item
-blurb: The APSA Directors' had their December meeting on the 19th where they discussed several business itms including the treasurer's report, website, and dropping the 2018 National Sale.
+blurb: The APSA Directors' had their December meeting on the 19th where they discussed several business items including the treasurer's report, website, and dropping the 2018 National Sale.
 ---
 
 **Present by phone:** Brett Pharo, Mark Meurer, John Anderson, Chris Kaeb, Bryce Freking, Kathy Ewert, Mark Van Roekel.  Not present Jeremy Refshaw
