@@ -9,7 +9,7 @@ description: Directory of Polypay sheep breeders and growers near you with infor
 
 	<h2>Breeder Directory</h2>
 
-	<p class="disclaimer">This membership directory includes active members as of January 2018. A <a href="/assets/pdfs/directory-2018-01-01.pdf" target="_blank">PDF version of the directory</a> is also available. The <i class="fas fa-link fa-sm"></i> icon links to the breeder's website and <i class="fas fa-envelope fa-sm"></i> to their email address.</p>
+	<p class="disclaimer">This membership directory includes active members as of June 2018. A <a href="/assets/pdfs/directory-2018-06-01.pdf" target="_blank">PDF version of the directory</a> is also available. The <i class="fas fa-link fa-sm"></i> icon links to the breeder's website and <i class="fas fa-envelope fa-sm"></i> to their email address.</p>
 
 	<div class="row">
 		<div class="col-md-4">
