@@ -19,11 +19,13 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 			<ul>
 				<li><a href="http://www.auderersheep.com" target="_blank">Auderer Sheep Farms</a></li>
 			  <li><a href="http://www.bigprairiepolypays.com/" target="_blank">Big Prairie Polypays</a></li>
+				<li><a href="http://jccpolypays.my.logonix.net/" target="_blank">JCC Polypays</a></li>
 				<li><a href="http://www.coyotecornerfarm.ca/whoweare.htm" target="_blank">Coyote Corner Farm</a></li>
 				<li><a href="http://hausserpolypays.webs.com/" target="_blank">Hausser Polypays</a></li>
 			  <li><a href="http://www.hiddenvalleypolypays.com/" target="_blank">Hidden Valley Farm Polypays</a></li>
 			  <li><a href="http://www.nkidsfarm.com/" target="_blank">Nine Kids Farm</a></li>
 			  <li><a href="http://www.backacrefarmmi.com/" target="_blank">Pharo Polypay Back Acre Farm</a></li>
+			  <li><a href="http://www.refshawranch.com" target="_blank">Refshaw Ranch Polypays</a></li>
 			  <li><a href="http://www.schauersheepcompany.com" target="_blank">Schauer
 			  Sheep Company</a></li>
 				<li><a href="http://www.shelridge.com/" target="_blank">Shelridge Wool Farm</a></li>
