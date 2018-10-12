@@ -32,7 +32,14 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 				<li><a href="http://www.polypays4u.com" target="_blank">Uncompahgre Polypay Farm</a></li>
 				<li>Be sure to checkout our <a href="/breeders">Breeders' Page</a> for a more complete listing and map of Polypay breeders</li>
 			</ul>
+
+			<h3>National Sheep Improvement Program</h3>
+			<ul>
+			  <li><a target="_blank" href="http://nsip.org/polypay-breeders/">NSIP Polypay page</a></li>
+				<li><a target="_blank" href="http://nsipsearch.nsip.org/#!/search">NSIP Database</a></li>
+			</ul>
 		</div>
+
 		<div class="col-md-6">
 			<h3>Breed Associations</h3>
 			<ul>
