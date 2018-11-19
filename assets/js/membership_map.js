@@ -149,7 +149,7 @@ function initMap() {
 var test = {
   "type": "FeatureCollection",
   "features": [
-	{% for breeder in site.breeders %}{% if breeder.state %}{% unless breeder.lat=="NA" %}
+	{% for breeder in site.breeders %}{% if breeder.state %}{% if breeder.status == "active" %}{% unless breeder.lat=="NA" %}
 	{
 		  "geometry": {
 		    "type": "Point",
@@ -170,6 +170,6 @@ var test = {
 				"email": "{{ breeder.email}}",
 				"website": "{{ breeder.website}}"
 		  }
-		},{% endunless %}{% endif %}{% endfor %}
+		},{% endunless %}{% endif %}{% endif %}{% endfor %}
   ]
 }

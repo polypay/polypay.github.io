@@ -13,7 +13,7 @@ description: Directory of Polypay sheep breeders and growers near you with infor
 
 	<div class="row">
 		<div class="col-md-4">
-			{% assign unique_states = site.breeders | map: 'state' | compact | sort | uniq %}
+			{% assign unique_states = site.breeders | where: 'status', 'active' | map: 'state' | compact | sort | uniq %}
 
 			{% for state in unique_states %}
 				<a href="#{{state}}" class="state-links">{{ site.data.states_map[state] }}</a>
@@ -23,7 +23,7 @@ description: Directory of Polypay sheep breeders and growers near you with infor
 				<div class="state-chunk">
 
 					<h3 id="{{state}}">{{ site.data.states_map[state] }}</h3>
-					{% assign state_breeder = site.breeders | where: "state", state %}
+					{% assign state_breeder = site.breeders | where: "state", state | where: 'status', 'active' %}
 
 					{% for breeder in state_breeder %}
 						{% include membership_entry.html member=breeder %}
