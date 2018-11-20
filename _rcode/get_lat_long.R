@@ -6,10 +6,9 @@
 #install.packages("RJSONIO")
 library(RJSONIO)
 
-
 geocodeAdddress <- function(address) {
-  url <- "http://maps.google.com/maps/api/geocode/json?address="
-  url <- URLencode(paste(url, address, "&sensor=false", sep = ""))
+  url <- "https://maps.google.com/maps/api/geocode/json?address="
+  url <- URLencode(paste(url, address, "&key=AIzaSyAzSWbWcsilEiXY1UpaRJcW3cPd38nCCOo&sensor=false", sep = ""))
   x <- fromJSON(url, simplify = FALSE)
   if (x$status == "OK") {
     out <- c(lat=x$results[[1]]$geometry$location$lat,
