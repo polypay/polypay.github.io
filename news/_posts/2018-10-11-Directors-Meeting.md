@@ -1,12 +1,10 @@
 ---
-title: March Directors' Meeting Minutes
+title: October Directors' Meeting Minutes
 layout: news_item
 blurb: The APSA Directors' had their October meeting on the 11th where they discussed several business items.
 ---
 
 **Present by phone:** Brett Pharo, Mark Meurer, Chris Kaeb, Mark Van Roekel, Bryce Freking, Jeremy Refshaw, Kathleen Ewert, John Anderson
-
-**Present by conference call:** Brett Pharo, Bryce Freking, Chris Kaeb, Mark Van Roekel, Kathy Ewing, John Anderson
 
 **Absent:** Jeremy Refshaw
 
@@ -21,6 +19,6 @@ Brett called the meeting to order.
 * Brett mentioned that the USSES was entering their data on Polypays into NSIP and were also planning to start registering their Polypays with APSA.
 
 
-Respectfully submitted, 
+Respectfully submitted,
 
 John Anderson, Secretary
