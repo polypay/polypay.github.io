@@ -9,38 +9,17 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 
 	<h2>Links</h2>
 
-	<p>Here are links to our fellow breeders and those who provide goods, services, and information that Polypay breeders find helpful in raising our animals. Feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuC3Gyxn0fsAj1icLhFsQ1hkmV0qPn39RYiIsbhioGmy_Vpg/viewform?usp=sf_link" target="_blank">submit a link</a> that you find useful and think others would too.</p>
-
+	<p>Here are links to our fellow breeders and those who provide goods, services, and information that Polypay breeders find helpful in raising our animals. Feel free to <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuC3Gyxn0fsAj1icLhFsQ1hkmV0qPn39RYiIsbhioGmy_Vpg/viewform?usp=sf_link" target="_blank">submit a link</a> that you find useful and think others would too. Be sure to check out our <a href="/breeders">Breeders' Page</a> for a complete listing and map of Polypay breeders.</p> 
 
 	<div class="row">
 
 		<div class="col-md-6">
-			<h3>Polypay Breeders</h3>
-			<ul>
-				<li><a href="http://www.auderersheep.com" target="_blank">Auderer Sheep Farms</a></li>
-			  <li><a href="http://www.bigprairiepolypays.com/" target="_blank">Big Prairie Polypays</a></li>
-				<li><a href="http://jccpolypays.my.logonix.net/" target="_blank">JCC Polypays</a></li>
-				<li><a href="http://www.coyotecornerfarm.ca/whoweare.htm" target="_blank">Coyote Corner Farm</a></li>
-				<li><a href="http://hausserpolypays.webs.com/" target="_blank">Hausser Polypays</a></li>
-			  <li><a href="http://www.hiddenvalleypolypays.com/" target="_blank">Hidden Valley Farm Polypays</a></li>
-			  <li><a href="http://www.nkidsfarm.com/" target="_blank">Nine Kids Farm</a></li>
-			  <li><a href="http://www.backacrefarmmi.com/" target="_blank">Pharo Polypay Back Acre Farm</a></li>
-			  <li><a href="http://www.refshawranch.com" target="_blank">Refshaw Ranch Polypays</a></li>
-			  <li><a href="http://www.schauersheepcompany.com" target="_blank">Schauer
-			  Sheep Company</a></li>
-				<li><a href="http://www.shelridge.com/" target="_blank">Shelridge Wool Farm</a></li>
-				<li><a href="http://www.polypays4u.com" target="_blank">Uncompahgre Polypay Farm</a></li>
-				<li>Be sure to checkout our <a href="/breeders">Breeders' Page</a> for a more complete listing and map of Polypay breeders</li>
-			</ul>
-
 			<h3>National Sheep Improvement Program</h3>
 			<ul>
 			  <li><a target="_blank" href="http://nsip.org/polypay-breeders/">NSIP Polypay page</a></li>
 				<li><a target="_blank" href="http://nsipsearch.nsip.org/#!/search">NSIP Database</a></li>
 			</ul>
-		</div>
 
-		<div class="col-md-6">
 			<h3>Breed Associations</h3>
 			<ul>
 				<li><a href="http://www.countrylovin.com/ACA/index.htm" target="_blank">American Corriedale Association</a></li>
@@ -48,6 +27,11 @@ description: Web links that Polypay sheep breeders find useful to find other bre
 				<li><a href="http://www.countrylovin.com/ARSBA/index.htm" target="_blank">American Rambouillet Sheep Breeders Assoc.</a></li>
 				<li><a href="http://www.countrylovin.com/NTSRI/index.html" target="_blank">National Tunis Sheep Registry, Inc.</a></li>
 			</ul>
+
+
+		</div>
+
+		<div class="col-md-6">
 
 
 			<h3>Industry, Government, Universities, &amp; Organizations</h3>
