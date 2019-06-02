@@ -34,7 +34,7 @@ description: The history, goals, and standards of the Polypay sheep breed
 	<h3>The Breed Standards</h3>
 
 	<div class="pull-right" style="margin: 20px">
-		<img width="400px" src="/assets/images/2010_df_6.jpg" />
+		<img width="400px" src="/assets/images/2015_10190.jpg" />
 	</div>
 
 	<h4>Physical requirements:</h4>
@@ -63,7 +63,7 @@ description: The history, goals, and standards of the Polypay sheep breed
 	</ol>
 
 	<div style="margin-top: 40px;">
-		<img width="800px" src="/assets/images/2010_panarama2003.jpg" style="display:block; margin:0 auto;"/>
+		<img width="800px" src="/assets/images/2018_page_ram.jpg" style="display:block; margin:0 auto;"/>
 	</div>
 
 </div>
