@@ -1,5 +1,5 @@
 ---
-farm_name: Meinders Stock Farms
+farm_name: Meinders Stock Farm
 classified: for_sale
 nsip:
   - 6201212019009044
