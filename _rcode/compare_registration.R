@@ -53,7 +53,7 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/directory-2019-05-23.xlsx"
+directory <- "assets/directory-2019-08-12.xlsx"
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
@@ -72,7 +72,8 @@ xlsx_directory <- read_xlsx(directory) %>%
 					website = `Web Site`
 				) %>%
 	select(-exclude_columns) %>%
-	select(member_id, owner, everything())
+	select(member_id, owner, everything()) %>%
+	filter(!is.na(member_id))
 
 
 yaml_directory <- list.files(path="_breeders", pattern="yml", full.names=TRUE) %>%
