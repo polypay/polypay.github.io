@@ -53,7 +53,7 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/directory-2019-08-31.xlsx"
+directory <- "assets/directory-2019-10-01.xlsx"
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
@@ -71,6 +71,11 @@ xlsx_directory <- read_xlsx(directory) %>%
 					email = `E-Mail Address`,
 					website = `Web Site`
 				) %>%
+	mutate(street=str_replace(street, ",$", "")) %>%
+	mutate(street=str_replace(street, "\\.$", "")) %>%
+	mutate(street=str_replace(street, "Street", "St")) %>%
+	mutate(street=str_replace(street, "St\\.", "St")) %>%
+	mutate(street=str_replace(street, "Road", "Rd")) %>%
 	select(-exclude_columns) %>%
 	select(member_id, owner, everything()) %>%
 	filter(!is.na(member_id))
