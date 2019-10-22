@@ -1,5 +1,5 @@
 ---
-title: Directors' Meetings and Annual Membership Meeting Minutes
+title: Directors' Meetings and Annual Membership Meeting
 layout: news_item
 blurb: The July APSA Directors' and Annual Membership meetings were held at the Center of the Nation Sale in Spencer, IA. There was a good discussion about the growth of the association and engaging the Sheep Experiment Station in Dubois, ID to strengthen the breed.
 ---
