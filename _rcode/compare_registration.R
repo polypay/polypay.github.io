@@ -53,7 +53,7 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/directory-2019-10-01.xlsx"
+directory <- "assets/directory-2019-12-01.xlsx"
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
@@ -102,9 +102,9 @@ update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") 
 	) %>%
 	select(member_id, ends_with(".y"), status, title) %>%
 	rename_all(~str_replace(., "\\.y", "")) %>%
-	nest(-member_id) %>%
+	nest(data = c(owner, farm_name, street, city, state, zip, phone1, phone2, email, website, status, title)) %>%
 	mutate(lat_long = map(data, ~get_lat_long(.x$street, .x$city, .x$state, .x$zip))) %>%
-	unnest()
+	unnest(data)
 
 update_yaml_inactive <- anti_join(yaml_directory, xlsx_directory, by="member_id") %>%
 	mutate(status = "inactive")
