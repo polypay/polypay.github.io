@@ -104,7 +104,7 @@ update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") 
 	rename_all(~str_replace(., "\\.y", "")) %>%
 	nest(data = c(owner, farm_name, street, city, state, zip, phone1, phone2, email, website, status, title)) %>%
 	mutate(lat_long = map(data, ~get_lat_long(.x$street, .x$city, .x$state, .x$zip))) %>%
-	unnest(data)
+	unnest(data, lat_long)
 
 update_yaml_inactive <- anti_join(yaml_directory, xlsx_directory, by="member_id") %>%
 	mutate(status = "inactive")
@@ -117,7 +117,7 @@ rbind(update_yaml_active, update_yaml_inactive) %>%
 	mutate(member_id = as.integer(member_id),
 				zip = as.integer(zip),
 				index = 1:nrow(.)) %>%
-	nest(-index) %>%
+	nest(data = c(member_id, owner, farm_name, street, city, state, zip, phone1, phone2, email, website, status, title, lat, long)) %>%
 	mutate(write = map(data,
 										~select_if(., ~!all(is.na(.))) %>%
 											as.yaml(.) %>%
