@@ -40,9 +40,11 @@
 			{% if ad.nsip %}
 				<h4>NSIP IDs:</h4>
 				<ul>
-				{% for ids in ad.nsip %}
-					<li><a href="http://nsipsearch.nsip.org/#!/details/{{ ids }}" target="_blank">{{ ids }}</a></li>
-				{% endfor %}
+					<li>
+					{% for ids in ad.nsip %}
+						<a href="http://nsipsearch.nsip.org/#!/details/{{ ids }}" target="_blank">{{ ids }}</a>  
+					{% endfor %}
+					</li>
 				</ul>
 			{% endif %}
 			<p class="text-right" style="padding-top:10px;"><i>Posted {{ ad.date | date:"%B %e, %Y"}}</i></p>
