@@ -36,13 +36,15 @@
 
 		</div>
 		<div class="col-md-8 ad-copy">
-			<p>{{ ad.content }} </p>
+
+			{{ ad.content }}
+
 			{% if ad.nsip %}
 				<h4>NSIP IDs:</h4>
 				<ul>
 					<li>
 					{% for ids in ad.nsip %}
-						<a href="http://nsipsearch.nsip.org/#!/details/{{ ids }}" target="_blank">{{ ids }}</a>  
+						<a href="http://nsipsearch.nsip.org/#!/details/{{ ids }}" target="_blank">{{ ids }}</a>
 					{% endfor %}
 					</li>
 				</ul>
