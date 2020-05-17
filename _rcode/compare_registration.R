@@ -53,7 +53,7 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/directory-2020-01-01.xlsx"
+directory <- "assets/xlsx/directory-2020-05-01.xlsx"
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
@@ -76,14 +76,17 @@ xlsx_directory <- read_xlsx(directory) %>%
 	mutate(street=str_replace(street, "Street", "St")) %>%
 	mutate(street=str_replace(street, "St\\.", "St")) %>%
 	mutate(street=str_replace(street, "Road", "Rd")) %>%
-	select(-exclude_columns) %>%
+	select(-all_of(exclude_columns)) %>%
 	select(member_id, owner, everything()) %>%
 	filter(!is.na(member_id))
+
+print("through xlsx_directory")
 
 
 yaml_directory <- list.files(path="_breeders", pattern="yml", full.names=TRUE) %>%
 	map_dfr(., ~read_yaml(.x) %>% align_yaml())
 
+print("through yaml_directory")
 
 
 update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") %>%
@@ -106,9 +109,13 @@ update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") 
 	mutate(lat_long = map(data, ~get_lat_long(.x$street, .x$city, .x$state, .x$zip))) %>%
 	unnest(c(data, lat_long))
 
+print("through update_yaml_active")
+
+
 update_yaml_inactive <- anti_join(yaml_directory, xlsx_directory, by="member_id") %>%
 	mutate(status = "inactive")
 
+print("through update_yaml_inactive")
 
 # need to...
 #	* output new yml files to _breeders
