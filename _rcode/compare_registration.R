@@ -76,6 +76,7 @@ xlsx_directory <- read_xlsx(directory) %>%
 	mutate(street=str_replace(street, "Street", "St")) %>%
 	mutate(street=str_replace(street, "St\\.", "St")) %>%
 	mutate(street=str_replace(street, "Road", "Rd")) %>%
+	mutate(street=str_replace(street, " CR ", " County Road ")) %>%
 	select(-all_of(exclude_columns)) %>%
 	select(member_id, owner, everything()) %>%
 	filter(!is.na(member_id))
