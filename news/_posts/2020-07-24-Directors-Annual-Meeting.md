@@ -35,11 +35,9 @@ Brett Pharo called the meeting to order.
 
 Minutes of the June 17, 2020 meeting were approved.
 
-Two nominations were made for the new president of APSA.  Brett nominated Mark Meurer, new and past board member.  Kathy Ewert seconded.  Mark Van Roekel nominated Kathy Ewert.  Mark Meurer seconded.  Mark Van Roekel asked the two nominees for their thoughts on important issues the APSA board should address.  Mark Meurer suggested growing the membership of APSA would be a good goal.   Kathy Ewert suggested we should invest in genomic testing to improve the breed.  
+Two nominations were made for the new president of APSA.  Brett nominated Mark Meurer, new and past board member.  Kathy Ewert seconded.  Mark Van Roekel nominated Kathy Ewert.  Mark Meurer seconded.  Mark Van Roekel asked the two nominees for their thoughts on important issues the APSA board should address.  Mark Meurer suggested growing the membership of APSA would be a good goal.   Kathy Ewert suggested we should invest in genomic testing to improve the breed.
 
-Voting was by text and Mark Meurer received the most votes.
-
-Mark Meurer took over the meeting as new president.  Congrats Mark!
+Voting was by text and Mark Meurer received the most votes. Mark Meurer took over the meeting as new president.  Congrats Mark!
 
 Mark asked for nominations for Vice President.  Mark Van Roekel nominated Bryce, Mark Meurer   seconded.  Vote was unanimous.  
 
@@ -49,7 +47,7 @@ Kathy Ewert nominated John Anderson for secretary, Chris Kaeb seconded.  Vote wa
 
 Committees were discussed.  The National Sale and Financial committees are composed of the entire board.  The Advertising committee will be Bryce, Mark Van Roekel, John and Chris.
 
-Mark Meurer asked if there should be any new committees.  Kathy suggested a youth committee.  Jeremy and Bryce will be on this committee.
+Mark Meurer asked if there should be any new committees.  Kathy suggested a youth committee.  Jeremy and Bryce will be on this committee with Kathy.
 
 Bryce mentioned that the Association had been buying a ½ page add in the Shepherd and we send out an email blast before the National Sale, Sedalia and the Eastern Sale.  APSA has also been advertising in 10 state associations communications.  
 
@@ -60,6 +58,7 @@ Mark M would like to proceed with Zoom meetings for the regular board meetings.
 Kathy suggested we have the next meeting in a couple of weeks.
 
 Bryce motioned to adjourn.  Mark V seconded.  
+
 
 Meeting was adjourned at 9:00 p.m. central time.
 
