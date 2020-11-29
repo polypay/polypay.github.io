@@ -23,7 +23,7 @@ blurb: The APSA Directors' had their August meeting where they discussed uncolle
 #### Committee reports
 * Sales committee report
   * Marked Meurer asked about what sales APSA might sponsor in 2021.
-  *  At this point we are planning on having the 2021 National Meeting at Spencer.  There was discussion about other sales involving Polypay Sheep in 2021 but that discussion was tabled until the fall meeting.
+  *  At this point we are planning on having the 2021 National Meeting at Spencer. There was discussion about other sales involving Polypay Sheep in 2021 but that discussion was tabled until the fall meeting.
 * Advertising Committee Report
   * Bryce said we usually have a ½ page add in the Shepherd each issue and advertise in 10 or 12 state association newsletters some months before the sales start in the summer.
   * ASI advertising is 40/yr to have the Association contact information in the listings.
