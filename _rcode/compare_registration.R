@@ -53,7 +53,7 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/xlsx/directory-2020-08-01.xlsx"
+directory <- "assets/xlsx/directory-2021-01-01.xlsx"
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
