@@ -19,5 +19,5 @@ Mark Meurer called the meeting to order.
 * Kathy motioned we move forward with both grant possibilities.  Jeremy seconded.  The motion passed - 6 yea,  0 nay.
 * Kathy said Brenda Murdoch would like to have a grant team.  That team would include Holly Neaton, DVM and PP producer, Maggie Highland, DVM,(veterinary pathologist Kansas State), Kathy Ewert DVM and PP producer, Chris Schaurer, Director of NDSU Hettinger Research Extension Center and PP producer.
 
-Respectfully submitted<\br>
+Respectfully submitted<br>
 John Anderson, Secretary
