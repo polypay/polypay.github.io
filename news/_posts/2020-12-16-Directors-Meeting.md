@@ -40,5 +40,5 @@ Minutes of the October 15 Directors meeting were approved.
 * The board will be looking at short and long term goals of the APSA in the near future.
 * Associated Registries will increase the cost of what they charge APSA from $3.15 to 3.55 per animal but the PP Assoc will not pass this increased charge on to producers.  Associated Registries said this price will not change for at least 5 years.
 
-Respectfully submitted</br>
+Respectfully submitted<\br>
 John Anderson, Secretary

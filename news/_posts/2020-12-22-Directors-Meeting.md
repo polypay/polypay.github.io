@@ -15,9 +15,9 @@ Mark Meurer called the meeting to order.
 * The USDA NIFA grant Brenda Murdoch would be pursuing could be submitted in April and we would know if it was accepted sometime in the summer.  With this grant there would be no matching funds required.  
 * With either grant Neogen would be the company the samples would go to for genotyping.  
 * Kathy mentioned that the Katahdin grant was an organic grant for parasite resistance and that grant had 5000 genomic samples and 5000 fecal samples.
-* Mark Van Roekel made a motion to proceed on both grants, and if the grant through NSIIC was approved the APSA would put $6,000.00 toward that grant as matching funds.  Bryce seconded.  The vote was 2 yea and 4 nay.  The motioned failed.
+* * Mark Van Roekel made a motion to proceed on both grants, and if the grant through NSIIC was approved the APSA would put $6,000.00 toward that grant as matching funds.  Bryce seconded.  The vote was 2 yea and 4 nay.  The motioned failed.
 * Kathy motioned we move forward with both grant possibilities.  Jeremy seconded.  The motion passed - 6 yea,  0 nay.
-* Kathy said Brenda Murdoch would like to have a grant team.  That team would include Holly Neaton, DVM and PP producer, Maggie Highland, DVM,(veterinary pathologist Kansas State), Kathy Ewert DVM and PP producer, Chris Schaurer, Director of NDSU Hettinger Research Extension Center and PP producer and John Anderson PP producer.
+* Kathy said Brenda Murdoch would like to have a grant team.  That team would include Holly Neaton, DVM and PP producer, Maggie Highland, DVM,(veterinary pathologist Kansas State), Kathy Ewert DVM and PP producer, Chris Schaurer, Director of NDSU Hettinger Research Extension Center and PP producer.
 
-Respectfully submitted</br>
+Respectfully submitted<\br>
 John Anderson, Secretary
