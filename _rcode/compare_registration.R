@@ -53,7 +53,10 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- "assets/xlsx/directory-2021-04-06.xlsx"
+directory <- list.files(path="assets/xlsx",
+		pattern="directory-20*",
+		full.names=TRUE) %>%
+	tail(n=1)
 
 exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
