@@ -26,6 +26,7 @@ align_yaml <- function(x){
 get_lat_long <- function(street, city, state, zip){
 
 	address <- paste(street, city, state, zip, sep=', ')
+	print(address)
 	lat_long <- geocodeAdddress(address)
 
 	if(is.na(lat_long['lat'])){
