@@ -5,10 +5,10 @@ farm_name: Spring Valley
 street: 21253 130th St
 city: Perry
 state: IA
-zip: 50220
+zip: '50220'
 phone1: 515-708-8850
 email: rustyburgett@gmail.com
 status: active
-lat: 41.850058
-long: -94.0623992
+lat: 41.8501
+long: -94.0624
 ---

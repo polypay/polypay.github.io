@@ -4,10 +4,10 @@ farm_name: P Squared Farm
 street: PO Box 550
 city: Salem
 state: MO
-zip: 65560
+zip: '65560'
 phone1: 573-284-2965
 email: kari.psquaredfarm@gmail.com
 status: active
-lat: 37.6455993
-long: -91.5359808
+lat: 37.6456
+long: -91.536
 ---

@@ -5,10 +5,10 @@ farm_name: Deerberg Land & Livestock
 street: 1706 190th St
 city: Clarence
 state: IA
-zip: 52216
+zip: '52216'
 phone1: 563-370-5036
 email: deerbergpolypay@gmail.com
 status: active
-lat: 41.813567
-long: -91.032737
+lat: 41.8136
+long: -91.0327
 ---

@@ -4,9 +4,9 @@ owner: Nicole Malone
 street: 30995 615th Ave
 city: Wadena
 state: MN
-zip: 56482
+zip: '56482'
 phone1: 612-695-7700
-status: active
+status: inactive
 lat: 46.4115642
 long: -95.2113611
 ---

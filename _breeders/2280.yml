@@ -5,10 +5,10 @@ farm_name: Diamond K Sheep Co.
 street: 8605 S. Kemmerer Rd
 city: Clinton
 state: WI
-zip: 53525
+zip: '53525'
 phone1: 608-732-4955
 email: dksheepco@yahoo.com
 status: active
-lat: 42.55035
-long: -88.849269
+lat: 42.5503
+long: -88.8493
 ---

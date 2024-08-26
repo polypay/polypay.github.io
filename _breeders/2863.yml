@@ -1,13 +1,13 @@
 ---
 member_id: 2863
-owner: Richard Laverdure & Family
+owner: Richard Laverdure& Family
 street: PO Box 446
 city: Cut Bank
 state: MT
-zip: 59427
+zip: '59427'
 phone1: 406-229-0161
 email: richielaverdure@gmail.com
 status: active
-lat: 48.6330395
-long: -112.3261618
+lat: 48.633
+long: -112.3262
 ---

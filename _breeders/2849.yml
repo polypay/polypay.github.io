@@ -5,10 +5,10 @@ farm_name: Leen LLC
 street: 1826 Green Ln
 city: Winterset
 state: IA
-zip: 50273
+zip: '50273'
 phone1: 515-339-7794
 email: vandykdr@gmail.com
-status: active
+status: inactive
 lat: 41.3812052
 long: -94.1137216
 ---

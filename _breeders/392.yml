@@ -5,11 +5,11 @@ farm_name: Will-O-Wood Sheep Farm
 street: 2871 Ladd Ridge Rd
 city: Athens
 state: OH
-zip: 45701
+zip: '45701'
 phone1: 740-856-2151
 phone2: 614-644-4031
 email: wowlamb@gmail.com
 status: active
-lat: 39.2402798
-long: -82.1398923
+lat: 39.2403
+long: -82.1399
 ---

@@ -5,7 +5,7 @@ farm_name: Chapman Farms
 street: 200 N Jones Rd
 city: Independence
 state: MO
-zip: 64056
+zip: '64056'
 phone1: 816-796-3177
 phone2: 816-550-3335
 email: cinda8@aol.com

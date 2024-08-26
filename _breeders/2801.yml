@@ -5,10 +5,10 @@ farm_name: Split Rail Farm LLC
 street: 2532 Sheffield Rd
 city: Hickory Corners
 state: MI
-zip: 49060
+zip: '49060'
 phone1: 248-240-7412
 email: splitrailfarmllc@gmail.com
 status: active
-lat: 42.4283391
-long: -85.3378397
+lat: 42.4277
+long: -85.3379
 ---

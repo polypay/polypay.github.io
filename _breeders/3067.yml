@@ -4,8 +4,8 @@ owner: Kade Jones
 street: 3624 N 450 E
 city: Rochester
 state: IN
-zip: 46975
+zip: '46975'
 status: active
-lat: 41.1070262
-long: -86.159687
+lat: 41.107
+long: -86.1594
 ---

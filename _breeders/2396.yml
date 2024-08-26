@@ -5,7 +5,7 @@ farm_name: Lyons Farm, Inc.
 street: 2732 Hwy 9 S
 city: Dawsonville
 state: GA
-zip: 30534
+zip: '30534'
 phone1: 706-265-3328
 email: lyonsfarm@windstream.net
 status: inactive

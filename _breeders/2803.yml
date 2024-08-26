@@ -5,10 +5,10 @@ farm_name: Elm Creek Polypay
 street: 1904 210th Ave
 city: Truman
 state: MN
-zip: 56088
+zip: '56088'
 phone1: 507-436-5273
 email: jed.fowler14@gmail.com
 status: active
-lat: 43.761177
-long: -94.446676
+lat: 43.7612
+long: -94.4467
 ---

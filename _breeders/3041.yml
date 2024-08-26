@@ -4,10 +4,10 @@ owner: Robert & Roxanne Finnesgard
 street: 19563 Cty 11
 city: Spring Grove
 state: MN
-zip: 55974
+zip: '55974'
 phone1: 507-208-3559
 email: bobfinnesgard@gmail.com
 status: active
-lat: 43.653978
-long: -91.642499
+lat: 43.6555
+long: -91.6418
 ---

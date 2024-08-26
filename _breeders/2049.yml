@@ -5,11 +5,11 @@ farm_name: Lucky Star Farm
 street: 1766 E County RD. 350 N
 city: Danville
 state: IN
-zip: 46122
+zip: '46122'
 phone1: 317-874-8187
 phone2: 317-892-4068
 email: 4luckyspringers@gmail.com
 status: active
-lat: 39.814385
-long: -86.493733
+lat: 39.8144
+long: -86.4937
 ---

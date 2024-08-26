@@ -5,7 +5,7 @@ farm_name: Rose Polypays
 street: 37396 Oak View St.
 city: Burney
 state: CA
-zip: 96013
+zip: '96013'
 phone1: 530-356-6498
 email: kkrose@frontiernet.net
 status: inactive

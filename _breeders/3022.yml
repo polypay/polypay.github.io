@@ -4,10 +4,10 @@ owner: Scott Winkler
 street: 5675 Stuckey Rd
 city: Creston
 state: OH
-zip: 44217
+zip: '44217'
 phone1: 330-635-2006
 email: selectpolypays@gmail.com
 status: active
-lat: 40.9968686
-long: -81.8940882
+lat: 40.9969
+long: -81.8941
 ---

@@ -5,10 +5,10 @@ farm_name: Cream City Lamb and Wool
 street: 44661 870th Ave
 city: Hector
 state: MN
-zip: 55342
+zip: '55342'
 phone1: 320-296-8025
 email: cclambandwool@gmail.com
 status: active
-lat: 44.843748
-long: -94.781326
+lat: 44.8437
+long: -94.7813
 ---

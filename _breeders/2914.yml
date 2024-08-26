@@ -5,7 +5,7 @@ farm_name: Orr Agricultural
 street: 150 Harmony Church Rd
 city: Belle Vernon
 state: PA
-zip: 15012
+zip: '15012'
 phone1: 724-244-7143
 status: inactive
 lat: 40.1141997

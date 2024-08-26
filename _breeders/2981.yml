@@ -5,10 +5,10 @@ farm_name: Express Polypays
 street: 4971 Hwy 71
 city: Rembrabst
 state: IA
-zip: 50576
+zip: '50576'
 phone1: 319-430-4117
 email: plwood1998@gmail.com
 status: active
-lat: 42.7952724
-long: -95.1523701
+lat: 42.7956
+long: -95.1516
 ---

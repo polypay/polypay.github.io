@@ -5,10 +5,10 @@ farm_name: Monheiser Livestock
 street: 597 N James Drive
 city: Hershey
 state: NE
-zip: 69143
+zip: '69143'
 phone1: 308-660-9079
 email: cjmonhcattle@gmail.com
 status: active
-lat: 41.138543
-long: -100.9654879
+lat: 41.1385
+long: -100.9655
 ---

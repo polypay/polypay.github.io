@@ -4,7 +4,7 @@ owner: Pete Erickson
 street: 1710 W Mason Rd
 city: Deer Park
 state: WA
-zip: 99006
+zip: '99006'
 status: inactive
 lat: 48.005512
 long: -117.44154

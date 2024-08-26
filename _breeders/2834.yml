@@ -4,10 +4,10 @@ owner: Abram Fisher
 street: 15 Duncan St
 city: Lancaster
 state: PA
-zip: 17602
+zip: '17602'
 phone1: 717-615-8378
 email: akbjf51@aol.com
-status: active
+status: inactive
 lat: 40.0231298
 long: -76.2690499
 ---

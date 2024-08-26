@@ -5,11 +5,11 @@ farm_name: Follow One Farms
 street: 41253 State Hwy 13
 city: Waseca
 state: MN
-zip: 56093
+zip: '56093'
 phone1: 507-461-6088
 email: followonefarms@gmail.com
 website: www.followonefarms.com
 status: active
-lat: 44.1564805
-long: -93.5123788
+lat: 44.1565
+long: -93.5124
 ---

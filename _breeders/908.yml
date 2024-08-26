@@ -5,11 +5,11 @@ farm_name: Grandview Polypays
 street: 2834 Co Rd 5
 city: Marshall
 state: MN
-zip: 56258
+zip: '56258'
 phone1: 507-532-7564
 email: lilalamb@starpoint.net
 website: www.grandviewpolypay.com
 status: active
-lat: 44.4640709
-long: -95.896218
+lat: 44.4641
+long: -95.8962
 ---

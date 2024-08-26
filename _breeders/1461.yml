@@ -5,11 +5,11 @@ farm_name: Van Well Polypays
 street: 1104 18th St NE
 city: Watertown
 state: SD
-zip: 57201
+zip: '57201'
 phone1: 605-881-6574
 email: vcvanwell@iw.net
 website: www.vanwellsheepfarm.com
 status: active
-lat: 44.913831
-long: -97.0872224
+lat: 44.9138
+long: -97.0872
 ---

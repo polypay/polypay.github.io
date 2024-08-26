@@ -5,7 +5,7 @@ farm_name: Shapiro Family Farms
 street: 6420 Burrows Rd
 city: Colorado Springs
 state: CO
-zip: 80908
+zip: '80908'
 phone1: 719-495-7340
 email: shawnashapiro@hotmail.com
 status: inactive

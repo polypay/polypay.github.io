@@ -4,9 +4,9 @@ owner: Daniel Tillman
 street: 93544 Hwy 140 W
 city: Lakeview
 state: OR
-zip: 97360
+zip: '97360'
 phone1: 541-539-0701
-status: active
+status: inactive
 lat: 42.18125
 long: -120.443659
 ---

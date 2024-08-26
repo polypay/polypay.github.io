@@ -4,10 +4,10 @@ owner: Lance & Shelly Dagel
 street: 78305 270th St
 city: Madelia
 state: MN
-zip: 56062
+zip: '56062'
 phone1: 605-520-1770
 email: lancedagel@hotmail.com
 status: active
-lat: 44.0941756
-long: -94.3769207
+lat: 44.0929
+long: -94.5025
 ---

@@ -4,11 +4,11 @@ owner: Joe Ferguson
 street: 31164 Branson Dr
 city: Marquand
 state: MO
-zip: 63655
+zip: '63655'
 phone1: 573-866-2376
 phone2: 573-944-1125
 email: lferguson63655@gmail.com
 status: active
-lat: 37.4292209
-long: -90.1681676
+lat: 37.4292
+long: -90.1682
 ---

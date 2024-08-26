@@ -5,7 +5,7 @@ farm_name: Bell Ringer Ranch
 street: 18563 Ward Creek Rd
 city: Cedaredge
 state: CO
-zip: 81413
+zip: '81413'
 phone1: 530-510-1864
 email: nparsons@deltaschools.com
 status: inactive

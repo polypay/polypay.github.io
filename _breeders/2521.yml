@@ -4,7 +4,7 @@ owner: Jason Werling & Family
 street: 1234 W 1200 N
 city: Decatur
 state: IN
-zip: 46733
+zip: '46733'
 phone1: 260-414-9865
 status: inactive
 lat: 40.9158929

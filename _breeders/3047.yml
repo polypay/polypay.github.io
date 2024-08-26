@@ -5,9 +5,9 @@ farm_name: Diamond T Farms
 street: 7484 W Interstate Block Rd
 city: Madison
 state: IN
-zip: 47250
+zip: '47250'
 phone1: 812-701-4236
 status: active
-lat: 38.7548808
-long: -85.5241883
+lat: 38.7549
+long: -85.5242
 ---

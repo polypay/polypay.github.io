@@ -5,7 +5,7 @@ farm_name: Spitfire Ranch
 street: 13137 County Rd 17
 city: Holdingford
 state: MN
-zip: 56340
+zip: '56340'
 phone1: 320-333-6977
 email: spitfireranchzoo@gmail.com
 status: inactive

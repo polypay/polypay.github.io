@@ -5,10 +5,10 @@ farm_name: Maple Twig Farm
 street: 2002 Maple Valley Rd
 city: Meyersdale
 state: PA
-zip: 15552
+zip: '15552'
 phone1: 814-350-2662
 phone2: 814-701-7046
 status: active
-lat: 39.8701829
-long: -78.9778938
+lat: 39.8702
+long: -78.9779
 ---

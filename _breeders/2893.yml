@@ -4,10 +4,10 @@ owner: Sophie Crouse
 street: 110 One Armed Ladies Rd
 city: Carmichaels
 state: PA
-zip: 15320
+zip: '15320'
 phone1: 724-255-8973
 email: dcwvu08@yahoo.com
 status: active
-lat: 39.8707149
-long: -80.071864
+lat: 39.8707
+long: -80.0719
 ---

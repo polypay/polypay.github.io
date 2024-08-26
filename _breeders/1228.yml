@@ -5,11 +5,11 @@ farm_name: Serenity Acres
 street: 141 Green Hill Rd
 city: Barto
 state: PA
-zip: 19504
+zip: '19504'
 phone1: 610-754-0801
 phone2: 610-683-4224
-email: rosmith@kutztown.edu
+email: rosmith@rutztown.edu
 status: active
-lat: 40.348437
-long: -75.5689143
+lat: 40.3484
+long: -75.5689
 ---

@@ -5,10 +5,10 @@ farm_name: Wiltshire Farms, LLC
 street: 152 Paul Weaver Rd
 city: Dahlonega
 state: GA
-zip: 30533
+zip: '30533'
 phone1: 470-253-0950
 email: wiltshirefarmsllc@gmail.com
-status: active
+status: inactive
 lat: 34.5416612
 long: -84.1559091
 ---

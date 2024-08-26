@@ -4,10 +4,10 @@ owner: Erika Lahti
 street: 620 Broken Down Dam Rd
 city: Fergus Falls
 state: MN
-zip: 56537
+zip: '56537'
 phone1: 218-880-1167
 email: thelahtis@charter.net
-status: active
+status: inactive
 lat: 46.289237
 long: -96.023812
 ---

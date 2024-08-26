@@ -4,11 +4,11 @@ owner: Bobby Jenkins
 street: 1891 Blue Ribbon Rd
 city: Oakland
 state: MD
-zip: 21550
+zip: '21550'
 phone1: 864-380-7057
 phone2: 301-501-3162
 email: bobbyj@aaabco.com
 status: active
-lat: 39.3301046
-long: -79.4315547
+lat: 39.3301
+long: -79.4316
 ---

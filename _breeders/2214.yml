@@ -5,10 +5,10 @@ farm_name: Feustel Farms, Inc.
 street: 1201 Cree Rd
 city: Lamont
 state: WA
-zip: 99017
+zip: '99017'
 phone1: 509-257-2683
 email: dvm@feustelfarms.com
 status: active
-lat: 47.2583163
-long: -117.8135494
+lat: 47.2583
+long: -117.8136
 ---

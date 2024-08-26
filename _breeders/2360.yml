@@ -5,11 +5,11 @@ farm_name: N Kids Farm
 street: 5420 Farrell Rd
 city: Dexter
 state: MI
-zip: 48130
+zip: '48130'
 phone1: 413-548-4445
 email: pdschloss@gmail.com
 website: www.nkidsfarm.com
 status: active
-lat: 42.3639155
-long: -83.8346243
+lat: 42.3639
+long: -83.8346
 ---

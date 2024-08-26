@@ -4,8 +4,8 @@ owner: Abagail Hanson
 street: 29781 200th St
 city: Dallas Center
 state: IA
-zip: 50063
-status: active
+zip: '50063'
+status: inactive
 lat: 41.7471976
 long: -93.8961209
 ---

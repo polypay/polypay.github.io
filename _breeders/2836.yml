@@ -5,10 +5,10 @@ farm_name: Cascade Colony
 street: 508 Birdtail Creek Rd
 city: Sun River
 state: MT
-zip: 59483
+zip: '59483'
 phone1: 406-264-5364
 email: paulwipf1@outlook.com
 status: active
-lat: 47.444207
-long: -111.826396
+lat: 47.4442
+long: -111.8264
 ---

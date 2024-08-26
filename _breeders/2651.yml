@@ -4,7 +4,7 @@ owner: Elese Andol
 street: 800 Cynthia St
 city: Maynard
 state: MN
-zip: 56260
+zip: '56260'
 status: inactive
 lat: 44.9117212
 long: -95.4730264

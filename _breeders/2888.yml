@@ -4,10 +4,10 @@ owner: Brendon Klassen
 street: 26083 Moss Rock Rd
 city: Hotchkiss
 state: CO
-zip: 81419
+zip: '81419'
 phone1: 970-644-0601
 email: brendonklaseen17@gmail.com
 status: active
-lat: 38.8303139
-long: -107.8753836
+lat: 38.8303
+long: -107.8754
 ---

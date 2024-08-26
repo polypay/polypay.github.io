@@ -4,10 +4,10 @@ owner: Kirk Holzmeister
 street: 2608 County Road 360
 city: Monument
 state: KS
-zip: 67747
+zip: '67747'
 phone1: 785-953-0186
 phone2: 785-672-7076
 status: active
-lat: 39.0678884
-long: -100.9979009
+lat: 39.0679
+long: -100.9979
 ---

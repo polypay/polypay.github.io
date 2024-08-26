@@ -4,7 +4,7 @@ owner: Homer Kinsinger
 street: 5790 Garrett Hwy
 city: Oakland
 state: MD
-zip: 21550
+zip: '21550'
 phone1: 301-616-4381
 email: hslukraine@gmail.com
 status: inactive

@@ -5,7 +5,7 @@ farm_name: Black Sheep Farm Hudson
 street: 24508 Hwy 52
 city: Hudson
 state: CO
-zip: 80642
+zip: '80642'
 phone1: 303-912-8701
 email: davidanapier@yahoo.com
 status: inactive

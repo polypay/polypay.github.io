@@ -4,11 +4,11 @@ owner: Scott Wollin
 street: 7044 Snow Camp Rd
 city: Snow Camp
 state: NC
-zip: 27349
+zip: '27349'
 phone1: 218-686-5513
 phone2: 218-436-2974
 email: swollin@wiktel.com
 status: active
-lat: 35.9086394
-long: -79.4066569
+lat: 35.9086
+long: -79.4067
 ---

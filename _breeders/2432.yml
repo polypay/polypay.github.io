@@ -4,7 +4,7 @@ owner: Eric Larsen
 street: 5720 Oak Park Rd
 city: Marshall
 state: WI
-zip: 53559
+zip: '53559'
 phone1: 608-655-4035
 email: chickens102@hughes.net
 status: inactive

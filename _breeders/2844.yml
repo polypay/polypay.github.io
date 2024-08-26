@@ -5,7 +5,7 @@ farm_name: Schwab Farms
 street: 1083 72nd St Dr
 city: Belle Plaine
 state: IA
-zip: 52208
+zip: '52208'
 phone1: 319-721-1409
 email: abbey.smith92@gmail.com
 status: inactive

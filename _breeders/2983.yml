@@ -4,10 +4,10 @@ owner: David Schroeder
 street: W 4351 Kropp Rd
 city: Black Creek
 state: WI
-zip: 54106
+zip: '54106'
 phone1: 920-228-0049
 email: david.t.schroeder@hahoo.com
-status: active
+status: inactive
 lat: 44.4659534
 long: -88.4006226
 ---

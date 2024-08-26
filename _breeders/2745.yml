@@ -5,9 +5,9 @@ farm_name: Royal Polypays
 street: 6791 Raley Rd
 city: New Waterford
 state: OH
-zip: 44445
+zip: '44445'
 phone1: 320-227-3601
-status: active
+status: inactive
 lat: 40.8016751
 long: -80.6453335
 ---

@@ -4,8 +4,8 @@ owner: Nehemiah Stokes
 street: 8500 Baldwin Rd
 city: Gaines
 state: MI
-zip: 48436
-status: active
+zip: '48436'
+status: inactive
 lat: 42.88506
 long: -83.84667
 ---

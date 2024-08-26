@@ -5,11 +5,11 @@ farm_name: Hidden Valley Polypays
 street: 4750 N 450 E
 city: Rochester
 state: IN
-zip: 46975
+zip: '46975'
 phone1: 574-204-3442
 email: glenjones1948@gmail.com
 website: hiddenvalleypolypays.com
 status: active
-lat: 41.1235933
-long: -86.1592877
+lat: 41.1236
+long: -86.1593
 ---

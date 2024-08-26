@@ -5,7 +5,7 @@ farm_name: Riverdale Farm
 street: 9030 40th St NW
 city: Milan
 state: MN
-zip: 56262
+zip: '56262'
 phone1: 320-841-0675
 phone2: 320-269-8749
 email: riverdale@mvtvwireless.com

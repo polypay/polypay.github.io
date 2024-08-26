@@ -4,10 +4,10 @@ owner: Justin & Hayden Taylor
 street: W7460 Meek Rd
 city: Arlington
 state: WI
-zip: 53911
+zip: '53911'
 phone1: 608-846-9536
 email: taylorsheep@yahoo.com
 status: active
-lat: 43.2948834
-long: -89.3952662
+lat: 43.2945
+long: -89.3713
 ---

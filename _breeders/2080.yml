@@ -5,7 +5,7 @@ farm_name: US MARC
 street: PO Box 166, Spur 18D
 city: Clay Center
 state: NE
-zip: 68933
+zip: '68933'
 status: inactive
 lat: 40.521924
 long: -98.0553783

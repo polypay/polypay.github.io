@@ -5,7 +5,7 @@ farm_name: East View Farm
 street: 5760 Peltier Rd
 city: Delphos
 state: OH
-zip: 45833
+zip: '45833'
 phone1: 419-695-8696
 status: inactive
 lat: 40.821685

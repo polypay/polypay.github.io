@@ -4,10 +4,10 @@ owner: Renee Tanner
 street: 1515 Brian St
 city: Lebanon
 state: TN
-zip: 37087
+zip: '37087'
 phone1: 615-957-8812
 email: rtanner@wilsoncoop.com
 status: active
-lat: 36.225398
-long: -86.255374
+lat: 36.2262
+long: -86.2544
 ---

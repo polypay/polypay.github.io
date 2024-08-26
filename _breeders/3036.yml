@@ -1,14 +1,14 @@
 ---
 member_id: 3036
-farm_name: CR Drake Sheep Farm
 owner: Ronald & Christy Drake
+farm_name: CR Drake Sheep Farm
 street: 1425 Larkingburg Rd
 city: Troy
 state: KS
-zip: 66087
+zip: '66087'
 phone1: 785-741-1563
 email: mayberry@carsoncomm.com
 status: active
-lat: 39.7888604
-long: -95.0924081
+lat: 39.7889
+long: -95.0924
 ---

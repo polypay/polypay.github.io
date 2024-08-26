@@ -4,10 +4,10 @@ owner: Rob Sando Family
 street: 4204 Hursch Rd
 city: Aranum
 state: OH
-zip: 45304
+zip: '45304'
 phone1: 937-459-8224
 email: sandolincolns@hotmail.com
 status: active
-lat: 39.9787324
-long: -84.6439171
+lat: 39.9746
+long: -84.6432
 ---

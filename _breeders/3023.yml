@@ -5,10 +5,10 @@ farm_name: 13 County Farms
 street: 88153 567 Ave
 city: Hartington
 state: NE
-zip: 68739
+zip: '68739'
 phone1: 402-640-9013
 email: john@13cofarms.com
 status: active
-lat: 42.606352
-long: -97.192506
+lat: 42.6064
+long: -97.1925
 ---

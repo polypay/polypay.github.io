@@ -5,9 +5,9 @@ farm_name: Sandyhill Farm
 street: 8157 E Rio Grande Ave
 city: Terre Haute
 state: IN
-zip: 47805
+zip: '47805'
 email: selinabourbeau86@gmail.com
-status: active
+status: inactive
 lat: 39.563277
 long: -87.2910887
 ---

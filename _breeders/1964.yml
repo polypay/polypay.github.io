@@ -5,13 +5,13 @@ farm_name: Refshaw Ranch Polypays
 street: 1339 290th St
 city: Waubun
 state: MN
-zip: 56589
+zip: '56589'
 phone1: 218-473-2236
 phone2: 218-230-5383
 email: refshawranch@yahoo.com
 website: www.refshawranch.com
 status: active
 title: Vice-President
-lat: 47.2211272
-long: -95.9207794
+lat: 47.221
+long: -95.9201
 ---

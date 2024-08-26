@@ -5,11 +5,11 @@ farm_name: JCC Polypays
 street: 13525 N. 1050 Rd
 city: MaComb
 state: IL
-zip: 61455
+zip: '61455'
 phone1: 309-333-9798
 email: jccarlson@logonix.net
 website: http://jccpolypays.my.logonix.net
-status: active
+status: inactive
 lat: 40.4313291
 long: -90.6463691
 ---

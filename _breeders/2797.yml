@@ -4,10 +4,10 @@ owner: Chris Bly
 street: 10525 76th Ave
 city: Flaxton
 state: ND
-zip: 58737
+zip: '58737'
 phone1: 701-705-2006
 email: blychristopher@yahoo.com
-status: active
+status: inactive
 lat: 48.941424
 long: -102.373053
 ---

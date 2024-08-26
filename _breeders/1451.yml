@@ -5,10 +5,10 @@ farm_name: University of Kentucky
 street: 1171 Midway Rd
 city: Versailles
 state: KY
-zip: 40383
+zip: '40383'
 phone1: 859-519-0298
 email: matthew.hamilton@uky.edu
 status: active
-lat: 38.084619
-long: -84.7270808
+lat: 38.0846
+long: -84.7271
 ---

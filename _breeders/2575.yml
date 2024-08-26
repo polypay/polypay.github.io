@@ -5,7 +5,7 @@ farm_name: BA Hard Polypay
 street: 15023 County Highway L32
 city: Mapleton
 state: IA
-zip: 51034
+zip: '51034'
 phone1: 402-740-0029
 email: batt15023@outlook.com
 status: inactive

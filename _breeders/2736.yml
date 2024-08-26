@@ -4,11 +4,11 @@ owner: Julie Dieck
 street: 10445 E Lennon Rd
 city: Lennon
 state: MI
-zip: 48449
+zip: '48449'
 phone1: 810-964-4979
 phone2: 810-449-9414
 email: snrdieck@lentel.com
 status: active
-lat: 42.9845807
-long: -83.9588099
+lat: 42.9849
+long: -83.9588
 ---

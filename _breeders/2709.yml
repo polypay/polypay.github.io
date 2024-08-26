@@ -5,10 +5,10 @@ farm_name: Snider Polypay Farm
 street: 2106 Shelby Ganges Rd
 city: Shelby
 state: OH
-zip: 44875
+zip: '44875'
 phone1: 614-554-1295
 email: sniderpolypayfarm@gmail.com
 status: active
-lat: 40.9013805
-long: -82.5903919
+lat: 40.9014
+long: -82.5904
 ---

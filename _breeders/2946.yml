@@ -4,10 +4,10 @@ farm_name: Pine Grove Family Farms
 street: 9582 NE 94th Ave
 city: Bondurant
 state: IA
-zip: 50035
+zip: '50035'
 phone1: 515-720-5835
 email: pinegrovefamilyfarms@gmail.com
-status: active
+status: inactive
 lat: 41.7326609
 long: -93.4083397
 ---

@@ -5,12 +5,12 @@ farm_name: Pharo Polypay
 street: 12266 Cherry Ave
 city: Rapid City
 state: MI
-zip: 49676
+zip: '49676'
 phone1: 231-322-2017
 phone2: 231-564-1540
 email: brettpharo@gmail.com
 website: www.backacrefarmmi.com
 status: active
-lat: 44.859289
-long: -85.3438853
+lat: 44.8593
+long: -85.3439
 ---

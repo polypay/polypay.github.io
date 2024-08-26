@@ -5,11 +5,11 @@ farm_name: Misty Hollow
 street: 14950 Stanwood St
 city: Dalton
 state: OH
-zip: 44618
+zip: '44618'
 phone1: 330-604-6040
 phone2: 330-605-1856
 email: mistyhollowsheep@gmail.com
 status: active
-lat: 40.7581687
-long: -81.6378687
+lat: 40.7582
+long: -81.6379
 ---

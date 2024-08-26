@@ -4,9 +4,9 @@ owner: Abigail Whicker
 street: 211 Cobblestone Landing
 city: Mt. Juliet
 state: TN
-zip: 37122
+zip: '37122'
 phone1: 615-203-4771
 status: active
-lat: 36.1924336
-long: -86.5742386
+lat: 36.1924
+long: -86.5742
 ---

@@ -5,10 +5,10 @@ farm_name: Cloverlawn Stock Farm
 street: 782 16th Ave
 city: Almena
 state: WI
-zip: 54805
+zip: '54805'
 phone1: 715-357-6159
 email: cloverlawn357@gmail.com
 status: active
-lat: 45.4395298
-long: -91.9955092
+lat: 45.4395
+long: -91.9955
 ---

@@ -34,7 +34,8 @@ get_lat_long <- function(street, city, state, zip){
 		address <- zip
 		lat_long <- geocodeAdddress(address)
 	}
-	as_tibble(as.list(lat_long))
+	as_tibble(as.list(round(lat_long, digits = 4L)))
+  
 }
 
 
@@ -127,7 +128,7 @@ print("through update_yaml_inactive")
 
 rbind(update_yaml_active, update_yaml_inactive) %>%
 	mutate(member_id = as.integer(member_id),
-				zip = as.integer(zip),
+				# zip = as.integer(zip),
 				index = 1:nrow(.)) %>%
 	nest(data = c(member_id, owner, farm_name, street, city, state, zip, phone1, phone2, email, website, status, title, lat, long)) %>%
 	mutate(write = map(data,

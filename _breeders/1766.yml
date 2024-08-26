@@ -4,10 +4,10 @@ owner: Robert Allen
 street: W 11456 McDonald Dr
 city: Merrimac
 state: WI
-zip: 53561
+zip: '53561'
 phone1: 608-745-4603
 email: aggienbob@yahoo.com
 status: active
-lat: 43.4464432
-long: -89.569584
+lat: 43.4464
+long: -89.5696
 ---

@@ -5,12 +5,12 @@ farm_name: Meinders Stock Farm
 street: 42645 20th Ave
 city: Buffalo Center
 state: IA
-zip: 50424
+zip: '50424'
 phone1: 515-320-3835
 email: meinders2@hotmail.com
 website: www.meindersstockfarmpolypays.com
 status: active
 title: director
-lat: 43.380223
-long: -93.929486
+lat: 43.3802
+long: -93.9295
 ---

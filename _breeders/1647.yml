@@ -4,10 +4,10 @@ owner: Tim Larson Family
 street: 4002 NE 69th St
 city: Medford
 state: MN
-zip: 55049
+zip: '55049'
 phone1: 507-213-1466
 email: tlarson@medford.k12.mn.us
 status: active
-lat: 44.169109
-long: -93.15392
+lat: 44.1693
+long: -93.1538
 ---

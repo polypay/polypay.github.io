@@ -5,11 +5,11 @@ farm_name: Shady Lawn Polypays
 street: 1850 S Scott Park Rd
 city: Eldridge
 state: IA
-zip: 52748
+zip: '52748'
 phone1: 563-285-8926
 phone2: 563-320-2746
 email: shadylawn1@gmail.com
 status: active
-lat: 41.6368979
-long: -90.559638
+lat: 41.6369
+long: -90.5596
 ---

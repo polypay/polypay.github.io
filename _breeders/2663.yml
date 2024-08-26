@@ -4,7 +4,7 @@ owner: Elijah Durbin
 street: 1515 Brian St
 city: Lebanon
 state: TN
-zip: 37087
+zip: '37087'
 phone1: 615-444-3032
 email: rtanner@wilsoncoop.com
 status: inactive

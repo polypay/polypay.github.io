@@ -5,10 +5,10 @@ farm_name: L & W Lambs
 street: 1153 198th Rd
 city: Boone
 state: IA
-zip: 50036
+zip: '50036'
 phone1: 515-443-2406
 email: garypfrimmer@gmail.com
-status: active
+status: inactive
 lat: 42.0703146
 long: -93.9400896
 ---

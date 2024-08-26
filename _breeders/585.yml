@@ -5,11 +5,11 @@ farm_name: Hanssen Polypays
 street: 43014 260th St
 city: Emery
 state: SD
-zip: 57332
-phone1: 605-449-4659
-phone2: 605-999-0290
+zip: '57332'
+phone1: 605-999-0290
+phone2: 605-999-0528
 email: rjhanssen@triotel.net
 status: active
-lat: 43.6154968
-long: -97.6052403
+lat: 43.6155
+long: -97.6052
 ---

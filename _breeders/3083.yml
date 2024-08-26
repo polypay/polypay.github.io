@@ -4,10 +4,10 @@ owner: Richard Harmon
 street: 12745 183rd St
 city: Newell
 state: SD
-zip: 57760
+zip: '57760'
 phone1: 605-210-3194
 email: richard.harmon@sdplains.com
 status: active
-lat: 44.748745
-long: -103.494127
+lat: 44.7488
+long: -103.4941
 ---

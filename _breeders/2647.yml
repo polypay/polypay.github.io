@@ -5,10 +5,10 @@ farm_name: Jamison Polypays
 street: 6850 County Rd AA
 city: Quinter
 state: KS
-zip: 67752
+zip: '67752'
 phone1: 785-769-3361
 email: dathanjamison@gmail.com
 status: active
-lat: 39.0763577
-long: -100.2697179
+lat: 39.0764
+long: -100.2697
 ---
