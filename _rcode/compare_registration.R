@@ -1,5 +1,5 @@
 library(tidyverse)
-library(readxl)
+# library(readxl)
 library(yaml)
 library(RJSONIO)
 
@@ -55,38 +55,46 @@ geocodeAdddress <- function(address) {
 }
 
 
-directory <- list.files(path = "assets/xlsx",
+directory <- list.files(path = "assets/csv",
 												pattern = "directory-20*",
 												full.names = TRUE) %>%
 	tail(n = 1)
 
-exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
+#exclude_columns <- c("Active/Inactive", "Dues Year Paid", "First Names", "Last Name", "Fax Number")
 
-xlsx_directory <- read_xlsx(directory) %>%
-	mutate(owner = paste(`First Names`, `Last Name`)) %>%
-	rename(
-					member_id = "Member #",
-					farm_name = `Farm Name`,
-					street = `Street Address`,
-					city = City,
-					state = State,
-					zip = `Postal Code`,
-					phone1 = `Phone #1`,
-					phone2 = `Phone #2`,
-					email = `E-Mail Address`,
-					website = `Web Site`
-				) %>%
-	mutate(street=str_replace(street, ",$", "")) %>%
-	mutate(street=str_replace(street, "\\.$", "")) %>%
-	mutate(street=str_replace(street, "Street", "St")) %>%
-	mutate(street=str_replace(street, "St\\.", "St")) %>%
-	mutate(street=str_replace(street, "Road", "Rd")) %>%
-	mutate(street=str_replace(street, " CR ", " County Road ")) %>%
-	select(-all_of(exclude_columns)) %>%
-	select(member_id, owner, everything()) %>%
-	filter(!is.na(member_id))
+csv_directory <- read_csv(directory) %>%
+	mutate(owner = paste(MbrFName, MbrLName) %>% str_to_title()) %>%
+	select(owner,
+        member_id = MbrId,
+        farm_name = MbrName,
+        street = MbrAddress1,
+        city = MbrCity,
+        state = MbrState,
+        zip = MbrZipCode,
+        phone1 = MbrPhone1N,
+        phone2 = MbrPhone2N,
+        website = MbrURL,
+        email = MbrEMail,
+        dues_expiration = MbrExpDues
+      ) %>%
+  mutate(
+    member_id = as.integer(member_id),
+    farm_name = str_to_title(farm_name),
+    street = str_to_title(street),
+    city = str_to_title(city),
+    email = tolower(email),
+    street=str_replace(street, ",$", ""),
+    street=str_replace(street, "\\.$", ""),
+    street=str_replace(street, "Street", "St"),
+    street=str_replace(street, "St\\.", "St"),
+	  street=str_replace(street, "Road", "Rd"),
+	  street=str_replace(street, " CR ", " County Road "),
+    dues_expiration = mdy(dues_expiration)) %>%
+	# select(-all_of(exclude_columns)) %>%
+	select(member_id, owner, farm_name, street, everything()) %>%
+	filter(!is.na(member_id) & today() - dues_expiration < 90)
 
-print("through xlsx_directory")
+print("through csv_directory")
 
 
 yaml_directory <- list.files(path="_breeders", pattern="yml", full.names=TRUE) %>%
@@ -95,7 +103,7 @@ yaml_directory <- list.files(path="_breeders", pattern="yml", full.names=TRUE) %
 print("through yaml_directory")
 
 
-update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") %>%
+update_yaml_active <- left_join(csv_directory, yaml_directory, by="member_id") %>%
 	mutate(
 		owner.y = ifelse(owner.x != "NA NA", owner.x, owner.y),
 		farm_name.y = ifelse(!is.na(farm_name.x), farm_name.x, farm_name.y),
@@ -111,14 +119,14 @@ update_yaml_active <- left_join(xlsx_directory, yaml_directory, by="member_id") 
 	) %>%
 	select(member_id, ends_with(".y"), status, title) %>%
 	rename_all(~str_replace(., "\\.y", "")) %>%
-	nest(data = c(owner, farm_name, street, city, state, zip, phone1, phone2, email, website, status, title)) %>%
+	nest(data = -member_id) %>%
 	mutate(lat_long = map(data, ~get_lat_long(.x$street, .x$city, .x$state, .x$zip))) %>%
 	unnest(c(data, lat_long))
 
 print("through update_yaml_active")
 
 
-update_yaml_inactive <- anti_join(yaml_directory, xlsx_directory, by="member_id") %>%
+update_yaml_inactive <- anti_join(yaml_directory, csv_directory, by="member_id") %>%
 	mutate(status = "inactive")
 
 print("through update_yaml_inactive")

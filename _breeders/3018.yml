@@ -1,12 +1,14 @@
 ---
 member_id: 3018
 owner: Keith Larsen
-street: 38393 US Hwy 14
+farm_name: Homestake Ranch
+street: 38405 US Hwy 14
 city: Wolsey
 state: SD
 zip: '57384'
-phone1: 605-350-5517
+phone1: (605) 350-5517
+email: homestakeranch@outlook.com
 status: active
-lat: 44.4564
-long: -98.5414
+lat: 44.4572
+long: -98.5383
 ---

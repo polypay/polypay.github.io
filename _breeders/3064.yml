@@ -5,9 +5,9 @@ street: 1553 Y Ave
 city: Ames
 state: IA
 zip: '50014'
-phone1: 515-450-0280
+phone1: (515) 450-0280
 email: bclawson@iastate.edu
 status: active
-lat: 41.9859
-long: -93.6991
+lat: 41.986
+long: -93.6989
 ---
