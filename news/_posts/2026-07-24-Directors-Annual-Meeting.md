@@ -1,7 +1,7 @@
 ---
 title: Directors' Annual Meeting Minutes
 layout: news_item
-blurb: The APSA Directors' had a meeting in March
+blurb: The APSA Directors' had a meeting in July
 ---
 
 President Refshaw called meeting to order
@@ -57,3 +57,4 @@ Adjourn--Zach made motion to adjourn and Caroline seconded.
 
 Respectfully submitted,
 Scott Wollin
+`
